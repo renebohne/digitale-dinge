@@ -160,10 +160,11 @@ sections:
     background_color: none
   - type: cta_section
     title: Triff uns bei Discord!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Wir freuen uns, Dich kennenzulernen. Unsere offene Community besteht aus
+      Makern und Technik Enthusiasten, die sich gegenseitig inspirieren und
+      voneinander lernen wollen. Wir tauschen Wissen aus und finden für jedes
+      technische Problem eine Lösung.
     actions:
       - label: Learn More
         url: /features
