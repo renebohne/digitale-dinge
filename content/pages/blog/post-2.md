@@ -1,5 +1,5 @@
 ---
-title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+title: Themenvorschläge
 subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.
