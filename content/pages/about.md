@@ -21,7 +21,7 @@ sections:
           seine Familie schützen und alles sicher machen? Welche Dinge sind
           wichtig und welche eher überflüssig oder schädlich? Wir schauen uns
           alles an!
-        image: images/about-5.jpg
+        image: /images/Design ohne Titel.png
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
