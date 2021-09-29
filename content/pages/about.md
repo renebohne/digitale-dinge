@@ -27,17 +27,8 @@ sections:
         media_width: fifty
       - title: Wachstum
         subtitle: Wie die Entdeckung zur Routine wurde
-        content: >
-          Da ein Maker im Lockdown nicht die gleichen Möglichkeiten hat, wie ein
-          Maker, der sich mit Gleichgesinnten in einer gut ausgestatteter
-          Werkstatt trifft, gab es von Woche zu Woche weniger zu berichten. Wir
-          schauten uns in unserem Netzwerk um und luden Gäste ein, die frische
-          Inhalte in unseren Stream gebracht haben. Das zog auch Zuschauer an,
-          die keine Vereinsmitglieder waren. Jede Woche kamen neue Maker hinzu
-          und die "Online Lab Night" wurde fester Bestandteil ihrer
-          Wochenplanung, da wir jeden Dienstag um 21 Uhr über das gesprochen
-          haben, was sie interessiert. Im Gegenzug traten manche von ihnen sogar
-          vor die Kamera und wurden zu beliebten Gästen in der Sendung. 
+        content: |
+          b
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
