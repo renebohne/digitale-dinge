@@ -50,7 +50,7 @@ sections:
             new_window: false
             no_follow: false
           - label: Discord
-            url: '#'
+            url: 'https://discord.gg/FRPbrSP'
             style: link
             has_icon: false
             icon: arrow-left
