@@ -42,7 +42,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - title: Section Title Three
+      - title: Der Neustart
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
