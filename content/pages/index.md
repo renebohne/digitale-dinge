@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Die Digitale Gemeinschaft
-    subtitle: Optional hero section subtitle
+    subtitle: Maker und digitale Dinge
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
