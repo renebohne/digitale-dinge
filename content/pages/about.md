@@ -25,7 +25,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - title: Der Neustart
+      - title: Digitale Dinge
         subtitle: Nach zwei Staffeln musste etwas neues her
         image: images/about-1.jpg
         image_alt: Happy co-workers
