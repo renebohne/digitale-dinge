@@ -42,7 +42,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: Blog
+          - label: Blogpost
             url: /blog/post-1
             style: link
             has_icon: false
