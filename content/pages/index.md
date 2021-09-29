@@ -90,7 +90,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Wie funktioniert es?
-    subtitle: Grid Section Example
+    subtitle: So einfach sind Digitale Dinge
     grid_items:
       - title: Section Item 1
         title_align: left
