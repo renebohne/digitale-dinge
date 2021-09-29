@@ -1,8 +1,6 @@
 ---
 title: Themenvorschläge
-subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
+subtitle: Über welche Themen sollen wir sprechen?
 date: '2020-05-25'
 author: content/data/team/hilary-ouse.yaml
 categories:
