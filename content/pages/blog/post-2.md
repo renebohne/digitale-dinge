@@ -6,8 +6,7 @@ author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
-tags:
-  - content/data/tags/netlify.yaml
+tags: []
 excerpt: >-
   Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
   sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
