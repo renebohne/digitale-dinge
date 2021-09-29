@@ -64,7 +64,7 @@
             },
             {
                 "label": "Live-Sendung",
-                "url": "#",
+                "url": "/blog/category/live",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
