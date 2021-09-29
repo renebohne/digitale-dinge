@@ -6,7 +6,6 @@ subtitle: >-
 date: '2020-05-25'
 author: content/data/team/hilary-ouse.yaml
 categories:
-  - content/data/categories/news.yaml
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
 tags:
