@@ -80,7 +80,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
-        image: /images/about-5.jpg
+        image: /images/about-2.jpg
   - type: cta_section
     title: Unser Discord Server
     content: |
