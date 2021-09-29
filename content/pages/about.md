@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Die Maker-Bewegung
+      - title: Wir mögen Digitale Dinge
         subtitle: Von Tüftlern und Bastlern
         content: >
           Wir mögen Menschen, sehr sogar. Aber wir mögen auch Dinge. Vor allem
