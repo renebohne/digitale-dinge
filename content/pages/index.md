@@ -212,7 +212,9 @@ sections:
     background_color: secondary
 seo:
   title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  description: >-
+    Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
+    Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
   extra:
     - name: 'og:type'
       value: website
