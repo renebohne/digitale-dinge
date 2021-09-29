@@ -40,7 +40,8 @@ sections:
         media_width: fifty
   - type: cta_section
     title: Unser Discord Server
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Wir freuen uns, Dich kennenzulernen!
     actions:
       - label: Compare Plans
         url: /pricing
