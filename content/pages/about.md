@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Wir mögen Digitale Dinge
-        subtitle: Von Tüftlern und Bastlern
+        subtitle: Was uns motiviert
         content: >
           Wir mögen Menschen, sehr sogar. Aber wir mögen auch Dinge. Vor allem
           mögen wir technische Dinge. Am meisten mögen wir technische Dinge, die
