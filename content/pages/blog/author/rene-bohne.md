@@ -61,7 +61,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts by Dianne Ameter
+      value: Beiträge von René Bohne
     - name: 'twitter:description'
       value: This is the author archive page
     - name: 'twitter:image'
