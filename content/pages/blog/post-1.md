@@ -1,7 +1,7 @@
 ---
 title: Es war einmal... die Online Lab Night
 subtitle: Aus einer bitteren Notwendigkeit entstand eine weitreichende Idee
-date: '2020-04-16'
+date: '2020-04-02'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/general.yaml
