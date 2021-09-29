@@ -42,7 +42,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts by René Bohne
+  title: Beiträge von René Bohne
   description: This is the author archive page
   extra:
     - name: 'og:type'
