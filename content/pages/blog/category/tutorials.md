@@ -3,7 +3,7 @@ title: Tutorials
 sections:
   - type: hero_section
     title: Tutorials
-    subtitle: The optional subtitle
+    subtitle: Mehr oder weniger ausführliche Anleitungen
     align: center
     padding_top: medium
     padding_bottom: none
