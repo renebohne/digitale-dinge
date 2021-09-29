@@ -172,7 +172,7 @@ seo:
         Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
         Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/logo_kreis.png
       relativeUrl: true
 layout: advanced
 ---
