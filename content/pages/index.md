@@ -168,7 +168,9 @@ seo:
     - name: 'twitter:title'
       value: Digitale Dinge
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: >-
+        Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
+        Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
