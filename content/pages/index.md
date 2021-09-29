@@ -167,7 +167,7 @@ sections:
       technische Problem eine Lösung.
     actions:
       - label: Discord
-        url: /features
+        url: 'https://discord.gg/FRPbrSP'
         style: secondary
     actions_position: right
     actions_width: fourty
