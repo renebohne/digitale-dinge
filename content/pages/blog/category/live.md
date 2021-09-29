@@ -3,7 +3,7 @@ title: News
 sections:
   - type: hero_section
     title: Live Sendung
-    subtitle: The optional subtitle
+    subtitle: Dienstags um 21 Uhr
     align: center
     padding_top: medium
     padding_bottom: none
