@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Die Maker-Bewegung
-        subtitle: Von Tüftlern
+        subtitle: Von Tüftlern und Bastlern
         content: >
           Bevor am 20. März 2020 der erste Lockdown in Deutschland in Kraft
           getreten war, zeichnete sich schon das klare Bild ab, dass ein
