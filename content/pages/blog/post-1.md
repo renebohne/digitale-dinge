@@ -45,3 +45,8 @@ seo:
 layout: post
 ---
 Bevor am 20. März 2020 der erste Lockdown in Deutschland in Kraft getreten war, zeichnete sich schon das klare Bild ab, dass ein Verzicht auf soziale Kontakte sinnvoll sein können, wenn sie in der Form eingeschränkt werden, dass Menschen sich nicht in einem physikalischen Raum treffen. Das war für uns alle ein großer Schock! Wir konnten uns fortan nicht mehr jeden Donnerstag in unserem Maker Space treffen. Als Ersatz wollten wir uns wöchentlich in einem Live Videochat treffen und diesen Live bei YouTube streamen und die Aufzeichnungen öffentlich verfügbar halten. Die "Online Lab Night" war geboren.
+
+Da ein Maker im Lockdown nicht die gleichen Möglichkeiten hat, wie ein Maker, der sich mit Gleichgesinnten in einer gut ausgestatteter Werkstatt trifft, gab es von Woche zu Woche weniger zu berichten. Wir schauten uns in unserem Netzwerk um und luden Gäste ein, die frische Inhalte in unseren Stream gebracht haben. Das zog auch Zuschauer an, die keine Vereinsmitglieder waren. Jede Woche kamen neue Maker hinzu und die "Online Lab Night" wurde fester Bestandteil ihrer Wochenplanung, da wir jeden Dienstag um 21 Uhr über das gesprochen haben, was sie interessiert. Im Gegenzug traten manche von ihnen sogar vor die Kamera und wurden zu beliebten Gästen in der Sendung.
+
+
+
