@@ -36,7 +36,8 @@ sections:
           die keine Vereinsmitglieder waren. Jede Woche kamen neue Maker hinzu
           und die "Online Lab Night" wurde fester Bestandteil ihrer
           Wochenplanung, da wir jeden Dienstag um 21 Uhr über das gesprochen
-          haben, was sie interessiert.
+          haben, was sie interessiert. Im Gegenzug traten manche von ihnen sogar
+          vor die Kamera und wurden zu beliebten Gästen in der Sendung. 
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
