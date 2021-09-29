@@ -43,7 +43,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Der Neustart
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: Nach zwei Staffeln musste etwas neues her
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
