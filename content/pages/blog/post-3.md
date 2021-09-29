@@ -7,8 +7,7 @@ date: '2020-05-28'
 author: content/data/team/gustav-purpleson.yaml
 categories:
   - content/data/categories/general.yaml
-tags:
-  - content/data/tags/stackbit.yaml
+tags: []
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
   dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
