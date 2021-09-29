@@ -116,10 +116,9 @@ sections:
       - title: Rund um die Uhr erreichbar
         title_align: left
         content: >
-          Jeden Dienstag um 21 Uhr hosten wir einen Live-Stream. Um eine
-          möglichst breite Themenauswahl bedienen zu können, laden wir
-          regelmäßig kompetente Gäste ein und freuen uns, im Live Chat mit den
-          Zuschauern in den Dialog  zu treten.
+          Die Community auf unserem Discord Server wächst täglich. Rund um die
+          Uhr versuchen wir uns dort gegenseitig zu helfen, Wissen zu teilen und
+          mit Gleichgesinnten in Kontakt zu treten.
         content_align: left
         actions:
           - label: Learn More
