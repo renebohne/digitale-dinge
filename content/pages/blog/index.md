@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Beiträge
-    subtitle: The optional subtitle
+    subtitle: 'Videos, Nachrichten, Tutorials'
     align: center
     padding_top: medium
     padding_bottom: none
