@@ -115,10 +115,11 @@ sections:
     grid_items:
       - title: Dienstags um 21 Uhr LIVE
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Jeden Dienstag um 21 Uhr hosten wir einen Live-Stream. Um eine
+          möglichst breite Themenauswahl bedienen zu können, laden wir
+          regelmäßig kompetente Gäste ein und freuen uns, im Live Chat mit den
+          Zuschauern in den Dialog  zu treten.
         content_align: left
         actions:
           - label: Learn More
