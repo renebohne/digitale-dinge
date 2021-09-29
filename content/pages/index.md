@@ -176,7 +176,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: What's New
+    title: Was gibt es Neues?
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
