@@ -177,7 +177,7 @@ sections:
     background_color: primary
   - type: blog_feed_section
     title: Was gibt es Neues?
-    subtitle: Blog Feed Section Example
+    subtitle: 'Blog, Videos, Tutorials und mehr'
     actions:
       - label: View All
         url: /blog
