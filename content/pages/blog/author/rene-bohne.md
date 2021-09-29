@@ -52,7 +52,7 @@ seo:
       value: Beiträge von René Bohne
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Dies ist Renés Archiv
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
