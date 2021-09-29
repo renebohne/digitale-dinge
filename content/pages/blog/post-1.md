@@ -1,5 +1,5 @@
 ---
-title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: Es war einmal... die Online Lab Night
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
