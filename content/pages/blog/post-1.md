@@ -5,6 +5,7 @@ date: '2021-09-28'
 author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
+  - content/data/categories/category-ek9kokp5k.json
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
