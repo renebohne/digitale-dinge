@@ -113,7 +113,7 @@ sections:
     title: Wie funktioniert es?
     subtitle: So einfach sind Digitale Dinge
     grid_items:
-      - title: Section Item 1
+      - title: Dienstags um 21 Uhr LIVE
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
