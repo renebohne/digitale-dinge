@@ -48,11 +48,6 @@
         "secondary_nav_title": "Beiträge",
         "secondary_nav_links": [
             {
-                "label": "Neuigkeiten",
-                "url": "/blog/category/news",
-                "style": "link"
-            },
-            {
                 "label": "Allgemein",
                 "url": "/blog/category/general",
                 "style": "link"
