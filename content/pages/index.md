@@ -118,7 +118,8 @@ sections:
         content: >
           Die Community auf unserem Discord Server wächst täglich. Rund um die
           Uhr versuchen wir uns dort gegenseitig zu helfen, Wissen zu teilen und
-          mit Gleichgesinnten in Kontakt zu treten.
+          uns mit Gleichgesinnten auszutauschen. Keine Frage ist zu blöd, keine
+          Antwort zu schlau.
         content_align: left
         actions:
           - label: Learn More
