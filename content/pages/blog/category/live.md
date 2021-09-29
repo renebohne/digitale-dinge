@@ -1,5 +1,5 @@
 ---
-title: News
+title: Live
 sections:
   - type: hero_section
     title: Live Sendung
