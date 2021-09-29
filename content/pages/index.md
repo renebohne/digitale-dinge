@@ -123,7 +123,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /about
             style: link
             has_icon: true
             icon: arrow-right
