@@ -26,7 +26,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Was müssen das für Menschen sein?
-        subtitle: Smarte Gegenstände
+        subtitle: Wer wir sind
         content: |
           b
         image: images/about-2.jpg
