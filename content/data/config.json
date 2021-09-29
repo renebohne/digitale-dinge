@@ -48,7 +48,7 @@
         "secondary_nav_title": "Beiträge",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Neuigkeiten",
                 "url": "/blog/category/news",
                 "style": "link"
             },
