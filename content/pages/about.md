@@ -27,8 +27,16 @@ sections:
         media_width: fifty
       - title: Was müssen das für Menschen sein?
         subtitle: Wer wir sind
-        content: |
-          b
+        content: >
+          In unserem Blog gibt es einen Artikel, der die Entstehungsgeschichte
+          dieser Webseite ein wenig genauer beleuchtet:
+          [/blog/post-1](/blog/post-1)
+
+
+          Wir sind eine lose und öffentliche Vereinigung von Tüftlern und
+          Machern, die inspiriert von dem freien Maker e.V. sich regelmäßig
+          austauscht, um digitale Dinge zu diskutieren oder welche zu
+          erschaffen. 
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
