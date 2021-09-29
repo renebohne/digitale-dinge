@@ -1,8 +1,6 @@
 ---
 title: Es war einmal... die Online Lab Night
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+subtitle: Aus einer Notwendigkeit
 date: '2020-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
