@@ -1,8 +1,9 @@
 ---
 title: Swichbot
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  Es gibt Sachen, die kannst Du Dir nicht ausdenken! Manche Erfindungen sind so
+  innovativ, dass man sich auf den ersten Blick sehr wundert. Aber manche sind
+  auch wirklich genial!
 date: '2020-05-28'
 author: content/data/team/rene-bohne.yaml
 categories:
