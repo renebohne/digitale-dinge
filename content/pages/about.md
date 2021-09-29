@@ -36,7 +36,7 @@ sections:
           Machern, die inspiriert von dem freien Maker e.V. sich regelmäßig
           austauscht, um digitale Dinge zu diskutieren oder welche zu
           erschaffen.
-        image: images/about-2.jpg
+        image: /images/Design ohne Titel (1).png
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
