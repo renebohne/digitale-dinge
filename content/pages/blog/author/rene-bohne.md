@@ -49,7 +49,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by Dianne Ameter
+      value: Beiträge von René Bohne
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
