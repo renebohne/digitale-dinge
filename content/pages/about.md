@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: cta_section
-    title: This is a Call to Action
+    title: Unser Discord Server
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
