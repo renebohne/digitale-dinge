@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Haftungausschluss und Datenschutzerklärung
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
