@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Über Uns
-    subtitle: About Page Demo
+    subtitle: Warum Digitale Dinge?
     align: center
     background_color: secondary
   - type: features_section
