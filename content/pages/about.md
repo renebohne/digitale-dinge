@@ -17,7 +17,7 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: Wachstum
+      - title: Das Internet der Dinge
         subtitle: Wie die Entdeckung zur Routine wurde
         content: |
           b
