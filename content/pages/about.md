@@ -44,10 +44,18 @@ sections:
         media_width: fifty
       - title: Der Neustart
         subtitle: Nach zwei Staffeln musste etwas neues her
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Irgendwann hatten wir mehr Externe in unserem Netzwerk als
+          Vereinsmitglieder. Um die Sache nicht unnötig zu komplizieren, haben
+          wir uns deshalb am 28. September 2021 entschlossen, die "Online Lab
+          Night" umzubenennen und sie von dem Freie Maker e.V. zu trennen.
+          Deswegen existiert diese Webseite! Ab 2. November 2021 wird es jeden
+          Dienstag um 21 Uhr den "Digitale Dinge Livestream" geben. Wir wollen
+          Maker und Technikbegeisterte einladen, mit uns in Discord zu chatten
+          und wir werden die Inhalte der Sendung um Tutorials und Blogbeiträge
+          ergänzen, damit die Informationen leichter gefunden werden können. Wir
+          freuen uns auf die nächsten Staffeln und auf neue Gäste in der
+          Sendung!
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
