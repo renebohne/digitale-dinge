@@ -3,7 +3,7 @@ title: General
 sections:
   - type: hero_section
     title: Allgemein
-    subtitle: The optional subtitle
+    subtitle: Generelles zu Digitalen Dingen
     align: center
     padding_top: medium
     padding_bottom: none
