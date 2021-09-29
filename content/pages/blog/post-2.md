@@ -7,7 +7,6 @@ categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
 tags:
-  - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
   Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
