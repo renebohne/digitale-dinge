@@ -53,7 +53,9 @@ seo:
       value: Digitale Dinge
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: >-
+        Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
+        Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
       keyName: property
     - name: 'og:image'
       value: /images/logo_kreis.png
