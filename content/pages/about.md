@@ -27,10 +27,13 @@ sections:
         media_width: fifty
       - title: Wachstum
         subtitle: Wie die Entdeckung zur Routine wurde
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Da ein Maker im Lockdown nicht die gleichen Möglichkeiten hat, wie ein
+          Maker, der sich mit Gleichgesinnten in einer gut ausgestatteter
+          Werkstatt trifft, gab es von Woche zu Woche weniger zu berichten. Wir
+          schauten uns in unserem Netzwerk um und luden Gäste ein, die frische
+          Inhalte in unseren Stream gebracht haben. Das zog auch Zuschauer an,
+          die keine Vereinsmitglieder waren. 
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
