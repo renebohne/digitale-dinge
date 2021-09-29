@@ -42,7 +42,9 @@ sections:
     background_color: secondary
 seo:
   title: Digitale Dinge
-  description: This is the blog page
+  description: >-
+    Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
+    Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
   extra:
     - name: 'og:type'
       value: website
