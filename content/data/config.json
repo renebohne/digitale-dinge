@@ -127,5 +127,6 @@
         ],
         "content": "&copy; 2021 René Bohne"
     },
-    "domain": "https://digitale-dinge.de"
+    "domain": "https://digitale-dinge.de",
+    "favicon": "/images/logo_transparent.png"
 }
