@@ -2,7 +2,7 @@
 title: Themenvorschläge
 subtitle: Über welche Themen sollen wir sprechen?
 date: '2020-05-25'
-author: content/data/team/hilary-ouse.yaml
+author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
