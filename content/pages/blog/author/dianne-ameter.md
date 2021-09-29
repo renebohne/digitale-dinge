@@ -1,5 +1,5 @@
 ---
-title: Dianne Ameter
+title: René Bohne
 sections:
   - type: hero_section
     title: René Bohne
