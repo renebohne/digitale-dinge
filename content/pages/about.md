@@ -25,7 +25,7 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: Das Internet der Dinge
+      - title: Was müssen das für Menschen sein?
         subtitle: Smarte Gegenstände
         content: |
           b
