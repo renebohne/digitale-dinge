@@ -2,7 +2,7 @@
 title: Dianne Ameter
 sections:
   - type: hero_section
-    title: Dianne Ameter
+    title: René Bohne
     subtitle: The optional subtitle
     align: center
     padding_top: medium
