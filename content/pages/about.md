@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Wie fing es an?
+      - title: Die Maker-Bewegung
         subtitle: Vom Lockdown zum Livestream
         content: >
           Bevor am 20. März 2020 der erste Lockdown in Deutschland in Kraft
