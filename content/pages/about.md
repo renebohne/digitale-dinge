@@ -29,14 +29,13 @@ sections:
         subtitle: Wer wir sind
         content: >
           In unserem Blog gibt es einen Artikel, der die Entstehungsgeschichte
-          dieser Webseite ein wenig genauer beleuchtet:
-          [/blog/post-1](/blog/post-1)
+          dieser Webseite ein wenig genauer beleuchtet.
 
 
           Wir sind eine lose und öffentliche Vereinigung von Tüftlern und
           Machern, die inspiriert von dem freien Maker e.V. sich regelmäßig
           austauscht, um digitale Dinge zu diskutieren oder welche zu
-          erschaffen. 
+          erschaffen.
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
