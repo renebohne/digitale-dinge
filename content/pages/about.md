@@ -43,7 +43,7 @@ sections:
         media_width: fifty
         actions:
           - label: lorem-ipsum
-            url: /
+            url: /blog/post-1
             style: link
             has_icon: false
             icon: arrow-left
