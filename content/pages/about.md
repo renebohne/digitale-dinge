@@ -18,7 +18,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Das Internet der Dinge
-        subtitle: Wie die Entdeckung zur Routine wurde
+        subtitle: Smarte Gegenstände
         content: |
           b
         image: images/about-2.jpg
