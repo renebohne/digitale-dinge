@@ -166,7 +166,7 @@ sections:
       voneinander lernen wollen. Wir tauschen Wissen aus und finden für jedes
       technische Problem eine Lösung.
     actions:
-      - label: Learn More
+      - label: Discord
         url: /features
         style: secondary
     actions_position: right
