@@ -26,7 +26,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Get Started",
+                "label": "YouTube",
                 "url": "/pricing",
                 "style": "primary"
             }
