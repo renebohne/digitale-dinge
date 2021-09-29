@@ -10,10 +10,12 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Bevor am 20. März 2020 der erste Lockdown in Deutschland in Kraft
+          getreten war, zeichnete sich schon das klare Bild, dass ein Verzicht
+          auf soziale Kontakte sinnvoll sein können, wenn sie in der Form
+          eingeschränkt werden, dass Menschen sich nicht in einem physikalischen
+          Raum treffen.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
