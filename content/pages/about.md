@@ -10,17 +10,9 @@ sections:
     features:
       - title: Die Maker-Bewegung
         subtitle: Von Tüftlern und Bastlern
-        content: >
-          Bevor am 20. März 2020 der erste Lockdown in Deutschland in Kraft
-          getreten war, zeichnete sich schon das klare Bild ab, dass ein
-          Verzicht auf soziale Kontakte sinnvoll sein können, wenn sie in der
-          Form eingeschränkt werden, dass Menschen sich nicht in einem
-          physikalischen Raum treffen. Das war für uns alle ein großer Schock!
-          Wir konnten uns fortan nicht mehr jeden Donnerstag in unserem Maker
-          Space treffen. Als Ersatz wollten wir uns wöchentlich in einem Live
-          Videochat treffen und diesen Live bei YouTube streamen und die
-          Aufzeichnungen öffentlich verfügbar halten. Die "Online Lab Night" war
-          geboren.
+        content: |+
+          A
+
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
