@@ -113,7 +113,7 @@ sections:
     title: Wie funktioniert es?
     subtitle: So einfach sind Digitale Dinge
     grid_items:
-      - title: Dienstags um 21 Uhr LIVE
+      - title: Dienstags LIVE
         title_align: left
         content: >
           Jeden Dienstag um 21 Uhr hosten wir einen Live-Stream. Um eine
