@@ -26,7 +26,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Digitale Dinge
-        subtitle: Nach zwei Staffeln musste etwas neues her
+        subtitle: c
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
