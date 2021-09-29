@@ -1,7 +1,7 @@
 ---
 title: Themenvorschläge
 subtitle: Über welche Themen sollen wir sprechen?
-date: '0029-09-29'
+date: '2021-09-29'
 author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
