@@ -43,7 +43,7 @@ sections:
     background_color: secondary
 seo:
   title: Beiträge von René Bohne
-  description: This is the author archive page
+  description: Dies ist Renés Archiv
   extra:
     - name: 'og:type'
       value: website
