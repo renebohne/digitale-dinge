@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - label: Mehr erfahren
-        url: /pricing
+        url: /about
         style: primary
     image: /images/logo_kreis.png
     image_alt: Hero section placeholder image
