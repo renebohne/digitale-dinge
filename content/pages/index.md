@@ -79,8 +79,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Ich wusste nicht, dass die Digitalisierung bei mir selbst beginnt.
-          Nun bin ich froh, Gleichgesinnte gefunden zu haben”
+          “Die Digitalisierung beginnt bei jedem Einzelnen. Nun bin ich froh,
+          Gleichgesinnte gefunden zu haben!”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
