@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: content/data/categories/news.yaml
+    category: content/data/categories/live.yaml
     show_date: true
     show_categories: true
     show_author: true
