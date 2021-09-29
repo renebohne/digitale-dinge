@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Wie fing es an?
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Vom Lockdown zum Livestream
         content: >
           Bevor am 20. März 2020 der erste Lockdown in Deutschland in Kraft
           getreten war, zeichnete sich schon das klare Bild ab, dass ein
