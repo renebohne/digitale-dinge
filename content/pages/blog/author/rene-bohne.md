@@ -63,7 +63,7 @@ seo:
     - name: 'twitter:title'
       value: Beiträge von René Bohne
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Dies ist Renés Archiv
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
