@@ -19,7 +19,8 @@ sections:
           Wir konnten uns fortan nicht mehr jeden Donnerstag in unserem Maker
           Space treffen. Als Ersatz wollten wir uns wöchentlich in einem Live
           Videochat treffen und diesen Live bei YouTube streamen und die
-          Aufzeichnungen öffentlich verfügbar halten.
+          Aufzeichnungen öffentlich verfügbar halten. Die "Online Lab Night" war
+          geboren.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
