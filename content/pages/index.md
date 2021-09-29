@@ -179,7 +179,7 @@ sections:
     title: Was gibt es Neues?
     subtitle: 'Blog, Videos, Tutorials und mehr'
     actions:
-      - label: View All
+      - label: Mehr
         url: /blog
         style: primary
     blog_feed_cols: three
