@@ -159,7 +159,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Triff uns bei Discord!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
