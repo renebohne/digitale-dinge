@@ -5,7 +5,7 @@
     "style": "classic",
     "palette": "green",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "DIY",
         "logo": "/images/logo_transparent.png",
