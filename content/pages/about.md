@@ -43,7 +43,7 @@ sections:
     content: |
       Wir freuen uns, Dich kennenzulernen!
     actions:
-      - label: Compare Plans
+      - label: Discord
         url: /pricing
         style: primary
     align: center
