@@ -44,7 +44,7 @@ sections:
       Wir freuen uns, Dich kennenzulernen!
     actions:
       - label: Discord
-        url: /pricing
+        url: 'https://discord.gg/FRPbrSP'
         style: primary
     align: center
     padding_top: medium
