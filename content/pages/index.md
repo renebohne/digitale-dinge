@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Die Digitale Gemeinschaft
     subtitle: Maker und digitale Dinge
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Was steckt hinter Digitale-Dinge, wie kann man mitmachen und was ist
+      wichtig?
     actions:
       - label: Mehr erfahren
         url: /about
