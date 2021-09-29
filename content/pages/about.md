@@ -12,10 +12,12 @@ sections:
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Bevor am 20. März 2020 der erste Lockdown in Deutschland in Kraft
-          getreten war, zeichnete sich schon das klare Bild, dass ein Verzicht
-          auf soziale Kontakte sinnvoll sein können, wenn sie in der Form
-          eingeschränkt werden, dass Menschen sich nicht in einem physikalischen
-          Raum treffen.
+          getreten war, zeichnete sich schon das klare Bild ab, dass ein
+          Verzicht auf soziale Kontakte sinnvoll sein können, wenn sie in der
+          Form eingeschränkt werden, dass Menschen sich nicht in einem
+          physikalischen Raum treffen. Das war für uns alle ein großer Schock!
+          Wir konnten uns fortan nicht mehr jeden Donnerstag in unserem Maker
+          Space treffen. 
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
