@@ -160,7 +160,7 @@ seo:
         Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/logo_kreis.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
