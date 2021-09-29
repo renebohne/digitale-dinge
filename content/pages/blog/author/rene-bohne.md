@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    author: content/data/team/dianne-ameter.yaml
+    author: content/data/team/rene-bohne.yaml
     show_date: true
     show_categories: true
     show_author: true
