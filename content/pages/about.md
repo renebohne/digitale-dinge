@@ -17,7 +17,9 @@ sections:
           Form eingeschränkt werden, dass Menschen sich nicht in einem
           physikalischen Raum treffen. Das war für uns alle ein großer Schock!
           Wir konnten uns fortan nicht mehr jeden Donnerstag in unserem Maker
-          Space treffen. 
+          Space treffen. Als Ersatz wollten wir uns wöchentlich in einem Live
+          Videochat treffen und diesen Live bei YouTube streamen und die
+          Aufzeichnungen öffentlich verfügbar halten.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
