@@ -134,7 +134,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Dienstags LIVE
         title_align: left
         content: >
           Jeden Dienstag um 21 Uhr hosten wir einen Live-Stream. Um eine
