@@ -98,15 +98,6 @@
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "YouTube",
                 "url": "https://www.youtube.com/channel/UCOqS_qv7lT9Oxr-FwpgnrKA",
                 "style": "link",
