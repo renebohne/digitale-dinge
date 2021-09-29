@@ -67,7 +67,7 @@
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "Impressum",
                 "url": "/terms-conditions",
                 "style": "link"
             },
