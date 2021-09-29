@@ -77,7 +77,7 @@ sections:
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         image: /images/about-5.jpg
