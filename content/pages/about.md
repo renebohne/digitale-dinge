@@ -10,9 +10,17 @@ sections:
     features:
       - title: Die Maker-Bewegung
         subtitle: Von Tüftlern und Bastlern
-        content: |+
-          A
-
+        content: >
+          Wir mögen Menschen, sehr sogar. Aber wir mögen auch Dinge. Vor allem
+          mögen wir technische Dinge. Am meisten mögen wir technische Dinge, die
+          miteinander und mit den Menschen verbunden sind. Davon gibt es
+          mittlerweile schon sehr viele. Das Internet der Dinge wächst und
+          wächst und man verliert schon fast die Übersicht. Auch unser zuhause
+          wird immer smarter und wir finden auch hier immer mehr digitale Dinge.
+          Wie kann man das alles miteinander verbinden? Wie kann man sich und
+          seine Familie schützen und alles sicher machen? Welche Dinge sind
+          wichtig und welche eher überflüssig oder schädlich? Wir schauen uns
+          alles an!
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
