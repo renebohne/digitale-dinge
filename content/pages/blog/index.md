@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Blog
+    title: Beiträge
     subtitle: The optional subtitle
     align: center
     padding_top: medium
