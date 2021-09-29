@@ -157,10 +157,11 @@ sections:
         image_has_padding: true
       - title: Dokumentation
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Wir haben den Anspruch, jedes Projekt zu dokumentieren. Das beginnt
+          mit den Aufzeichnungen der Live-Sendung und endet mit der
+          Bereitstellung von Source-Code bei github. Ergänzend schreiben wir
+          ausführliche Tutorials zu den größeren und beliebteren Projekten.
         content_align: left
         actions:
           - label: Learn More
