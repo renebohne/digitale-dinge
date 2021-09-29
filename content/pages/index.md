@@ -136,10 +136,11 @@ sections:
         image_has_padding: true
       - title: Section Item 2
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Jeden Dienstag um 21 Uhr hosten wir einen Live-Stream. Um eine
+          möglichst breite Themenauswahl bedienen zu können, laden wir
+          regelmäßig kompetente Gäste ein und freuen uns, im Live Chat mit den
+          Zuschauern in den Dialog  zu treten.
         content_align: left
         actions:
           - label: Learn More
