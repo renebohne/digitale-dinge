@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Wie fing es an?
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Bevor am 20. März 2020 der erste Lockdown in Deutschland in Kraft
