@@ -7,9 +7,7 @@ categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+excerpt: Welche Themen sollen wir in den folgendne Sendungen behandeln?
 thumb_image: /images/Design ohne Titel (2).png
 thumb_image_alt: Post 2 placeholder image
 image: /images/Design ohne Titel (2).png
