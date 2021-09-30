@@ -9,7 +9,7 @@ categories:
 tags: []
 excerpt: >-
   Welche Themen sollen wir in den f Sendungen behandeln? Welche Gäste sollen wir
-  einladen und 
+  einladen und möchtest Du vielleicht selbst mal live dabei sein?
 thumb_image: /images/Design ohne Titel (2).png
 thumb_image_alt: Post 2 placeholder image
 image: /images/Design ohne Titel (2).png
