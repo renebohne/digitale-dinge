@@ -10,7 +10,9 @@ categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: 'In der ersten Livesendung wollen wir uns Switchbot angucken. '
+excerpt: >-
+  In der ersten Livesendung wollen wir uns Switchbot angucken. Zu jeder Sendung
+  gibt es einen 
 thumb_image: /images/switchbot.jpg
 thumb_image_alt: Post 3 placeholder image
 image: /images/switchbot.jpg
