@@ -7,7 +7,7 @@ categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: Welche Themen sollen wir in den folgende Sendungen behandeln?
+excerpt: Welche Themen sollen wir in den f Sendungen behandeln?
 thumb_image: /images/Design ohne Titel (2).png
 thumb_image_alt: Post 2 placeholder image
 image: /images/Design ohne Titel (2).png
