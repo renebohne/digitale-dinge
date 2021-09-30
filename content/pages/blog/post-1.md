@@ -6,7 +6,7 @@ author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
-excerpt: 'Die Online Lab Night '
+excerpt: 'Die Online Lab Night wurde abgelöst durch '
 thumb_image: /images/onlinelabnight.png
 thumb_image_alt: Post 1 placeholder image
 image: /images/onlinelabnight.png
