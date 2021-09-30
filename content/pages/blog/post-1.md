@@ -7,8 +7,8 @@ categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  Die Online Lab Night wurde abgelöst durch ein neues Format. Warum das
+  notwendig wurde, erfahrt ihr in diesem Beitrag.
 thumb_image: /images/onlinelabnight.png
 thumb_image_alt: Post 1 placeholder image
 image: /images/onlinelabnight.png
