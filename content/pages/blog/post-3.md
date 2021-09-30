@@ -10,10 +10,7 @@ categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+excerpt: 'In der ersten Livesendung wollen wir uns Switchbot angucken. '
 thumb_image: /images/switchbot.jpg
 thumb_image_alt: Post 3 placeholder image
 image: /images/switchbot.jpg
