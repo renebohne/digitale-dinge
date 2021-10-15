@@ -32,7 +32,7 @@ seo:
       value: Allgemeine Beiträge
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Dies ist die Übersicht über alle Beiträge in der Kategorie 'Allgemein'.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
