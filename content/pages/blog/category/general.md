@@ -22,17 +22,17 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Posts in General
-  description: This is the author archive page
+  title: Allgemeine Beiträge
+  description: Dies ist die Übersicht über alle Beiträge in der Kategorie 'Allgemein'.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in General
+      value: Allgemeine Beiträge
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Dies ist die Übersicht über alle Beiträge in der Kategorie 'Allgemein'.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
@@ -41,9 +41,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in General
+      value: Allgemeine Beiträge
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Dies ist die Übersicht über alle Beiträge in der Kategorie 'Allgemein'.
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true

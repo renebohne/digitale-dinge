@@ -22,30 +22,30 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Posts in News
-  description: This is the author archive page
+  title: Live Sendung
+  description: 'Dies ist das Archiv unserer Live Sendung. '
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in News
+      value: Live Sendung
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: 'Dies ist das Archiv unserer Live Sendung. '
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/onlinelabnight.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in News
+      value: Live Sendung
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: 'Dies ist das Archiv unserer Live Sendung. '
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/onlinelabnight.png
       relativeUrl: true
 layout: advanced
 ---

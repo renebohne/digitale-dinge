@@ -22,17 +22,17 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Posts in Tutorials
-  description: This is the author archive page
+  title: Tutorials
+  description: Das ist das Archiv unserer Tutorials.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Tutorials
+      value: Tutorials
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Das ist das Archiv unserer Tutorials.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
@@ -41,9 +41,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in Tutorials
+      value: Tutorials
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Das ist das Archiv unserer Tutorials.
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
