@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: Themenvorschläge
     - name: 'twitter:description'
       value: >-
         Auf dieser Seite sammeln wir Themenvorschläge, die wir im Livechat bei
