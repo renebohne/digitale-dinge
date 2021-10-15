@@ -35,8 +35,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
-        Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
+        In unserem Blog gibt es Neuigkeiten aus den Bereichen Smart Home,
+        Internet der Dinge (IoT), Raspberry Pi, Arduino, ESP8266 , ESP32, DIY
+        und Maker Community.
       keyName: property
     - name: 'og:image'
       value: /images/logo_kreis.png
