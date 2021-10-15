@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Privacy Policy
+      value: Haftungausschluss und Datenschutzerklärung
     - name: 'twitter:description'
       value: This is the privacy policy page
 layout: page
