@@ -32,7 +32,7 @@ seo:
       value: Tutorials
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Das ist das Archiv unserer Tutorials.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
