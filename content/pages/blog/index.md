@@ -48,7 +48,10 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: >-
+        In unserem Blog gibt es Neuigkeiten aus den Bereichen Smart Home,
+        Internet der Dinge (IoT), Raspberry Pi, Arduino, ESP8266 , ESP32, DIY
+        und Maker Community.
     - name: 'twitter:image'
       value: /images/logo_kreis.png
       relativeUrl: true
