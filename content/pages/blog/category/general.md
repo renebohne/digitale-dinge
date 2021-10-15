@@ -23,7 +23,7 @@ sections:
     has_border: true
 seo:
   title: Posts in General
-  description: This is the author archive page
+  description: Dies ist die Übersicht über alle Beiträge in der Kategorie 'Allgemein'.
   extra:
     - name: 'og:type'
       value: website
