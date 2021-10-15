@@ -73,7 +73,7 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: About
+  title: Über Digitale Dinge
   description: >-
     Uns motivieren die Möglichkeiten, die die Digitalisierung und das Internet
     der Dinge mit sich bringen. Wie können wir Tüftler, Make, Künstler und
