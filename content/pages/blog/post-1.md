@@ -16,7 +16,10 @@ image_alt: Post 1 placeholder image
 image_position: right
 seo:
   title: Es war einmal... die Online Lab Night
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: >-
+    Aus dem Lockdown entstand die "Online Lab Night". Nach zwei Staffeln und 64
+    Episoden wurde es Zeit für einen neuen Namen und ein neues Design. Deswegen
+    gehen wir am 2.11.2021 als "Digitale Dinge" wieder live auf Sendung!
   extra:
     - name: 'og:type'
       value: article
