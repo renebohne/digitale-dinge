@@ -31,7 +31,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Digitale Dinge
+      value: Digitale Dinge - Blog
       keyName: property
     - name: 'og:description'
       value: >-
