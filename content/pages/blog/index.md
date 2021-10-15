@@ -21,21 +21,23 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Digitale Dinge
+  title: Digitale Dinge - Blog
   description: >-
-    Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
-    Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
+    In unserem Blog gibt es Neuigkeiten aus den Bereichen Smart Home, Internet
+    der Dinge (IoT), Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker
+    Community
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Digitale Dinge
+      value: Digitale Dinge - Blog
       keyName: property
     - name: 'og:description'
       value: >-
-        Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
-        Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
+        In unserem Blog gibt es Neuigkeiten aus den Bereichen Smart Home,
+        Internet der Dinge (IoT), Raspberry Pi, Arduino, ESP8266 , ESP32, DIY
+        und Maker Community.
       keyName: property
     - name: 'og:image'
       value: /images/logo_kreis.png
@@ -44,11 +46,14 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Digitale Dinge - Der Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: >-
+        In unserem Blog gibt es Neuigkeiten aus den Bereichen Smart Home,
+        Internet der Dinge (IoT), Raspberry Pi, Arduino, ESP8266 , ESP32, DIY
+        und Maker Community.
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/logo_kreis.png
       relativeUrl: true
 layout: advanced
 ---

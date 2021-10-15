@@ -73,20 +73,26 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: About
-  description: This is the about us page
+  title: Über Digitale Dinge
+  description: >-
+    Uns motivieren die Möglichkeiten, die die Digitalisierung und das Internet
+    der Dinge mit sich bringen. Wie können wir Tüftler, Make, Künstler und
+    Ingenieure die Welt verändern?
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: Über uns
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Uns motivieren die Möglichkeiten, die die Digitalisierung und das
+        Internet der Dinge mit sich bringen. Wie können wir Tüftler, Make,
+        Künstler und Ingenieure die Welt verändern?
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: /images/rene_sw.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -94,9 +100,12 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Uns motivieren die Möglichkeiten, die die Digitalisierung und das
+        Internet der Dinge mit sich bringen. Wie können wir Tüftler, Make,
+        Künstler und Ingenieure die Welt verändern?
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: /images/rene_sw.jpg
       relativeUrl: true
 layout: advanced
 ---

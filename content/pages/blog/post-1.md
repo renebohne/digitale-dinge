@@ -15,30 +15,36 @@ image: /images/onlinelabnight.png
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
-  title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: Es war einmal... die Online Lab Night
+  description: >-
+    Aus dem Lockdown entstand die "Online Lab Night". Nach zwei Staffeln und 64
+    Episoden wurde es Zeit für einen neuen Namen und ein neues Design.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Es war einmal... die Online Lab Night
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Aus dem Lockdown entstand die "Online Lab Night". Nach zwei Staffeln und
+        64 Episoden wurde es Zeit für einen neuen Namen und ein neues Design.
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /images/onlinelabnight.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Es war einmal... die Online Lab Night
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Aus dem Lockdown entstand die "Online Lab Night". Nach zwei Staffeln und
+        64 Episoden wurde es Zeit für einen neuen Namen und ein neues Design.
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /images/onlinelabnight.png
       relativeUrl: true
 layout: post
 ---

@@ -16,30 +16,36 @@ image: /images/Design ohne Titel (2).png
 image_alt: Post 2 placeholder image
 image_position: left
 seo:
-  title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
-  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
+  title: Themenvorschläge
+  description: >-
+    Auf dieser Seite sammeln wir Themenvorschläge, die wir im Livechat bei
+    YouTube und Discord erhalten haben. 
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: Themenvorschläge
       keyName: property
     - name: 'og:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Auf dieser Seite sammeln wir Themenvorschläge, die wir im Livechat bei
+        YouTube und Discord erhalten haben. 
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-2.png
+      value: /images/Design ohne Titel (2).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: Themenvorschläge
     - name: 'twitter:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Auf dieser Seite sammeln wir Themenvorschläge, die wir im Livechat bei
+        YouTube und Discord erhalten haben. 
     - name: 'twitter:image'
-      value: images/classic/post-2.png
+      value: /images/Design ohne Titel (2).png
       relativeUrl: true
 layout: post
 ---

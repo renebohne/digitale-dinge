@@ -19,31 +19,40 @@ image: /images/switchbot.jpg
 image_alt: Post 3 placeholder image
 image_position: top
 seo:
-  title: Cur Ipse Pythagoras Et Aegyptum Lustravit
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  title: Switchbot
+  description: >-
+    Wir werden in der ersten Episode der Live-Sendung über den Switchbot
+    sprechen. Wir können überlegen, was Maker aus den Produkten rausholen
+    können. 
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Switchbot
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        Wir werden in der ersten Episode der Live-Sendung über den Switchbot
+        sprechen. Wir können überlegen, was Maker aus den Produkten rausholen
+        können. 
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-3.png
+      value: /images/switchbot.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Switchbot
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        Wir werden in der ersten Episode der Live-Sendung über den Switchbot
+        sprechen. Wir können überlegen, was Maker aus den Produkten rausholen
+        können. 
     - name: 'twitter:image'
-      value: images/classic/post-3.png
+      value: /images/switchbot.jpg
       relativeUrl: true
 layout: post
 ---
-Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Es wird einen auführlichen Teardown geben und wir können überlegen, was man aus den Produkten alles rausholen kann. Dieser Post wird bald erweitert ;)
+Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Es wird ein ausführliches Review geben und wir können überlegen, was man aus den Produkten alles rausholen kann. Dieser Post wird bald erweitert ;)

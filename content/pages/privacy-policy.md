@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Privacy Policy
+      value: Haftungausschluss und Datenschutzerklärung
       keyName: property
     - name: 'og:description'
       value: This is the privacy policy page
@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Privacy Policy
+      value: Haftungausschluss und Datenschutzerklärung
     - name: 'twitter:description'
       value: This is the privacy policy page
 layout: page
