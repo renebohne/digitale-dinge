@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:description'
       value: Dies ist Renés Archiv
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/rene_sw.jpg
       relativeUrl: true
 layout: advanced
 ---
