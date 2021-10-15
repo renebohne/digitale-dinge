@@ -120,8 +120,9 @@ sections:
       Makern und Technik-Enthusiasten, die sich gegenseitig inspirieren und
       voneinander lernen wollen. Wir tauschen Wissen aus und finden für jedes
       technische Problem eine Lösung. Wir freuen uns, mit Dir über Themen wie
-      Internet der Dinge (IoT), Arduino, Raspberry Pi, ESP32, Smart Home oder
-      LoRa zu sprechen - oder vielleicht bringst Du ja ganz neue Themen mit?!
+      Internet der Dinge (IoT), Arduino, Raspberry Pi, ESP32, Smart Home, Alexa,
+      Podcasts, WhatsApp, Instagram, Facebook oder LoRa zu sprechen - oder
+      vielleicht bringst Du ja ganz neue Themen mit?!
     actions:
       - label: Discord
         url: 'https://discord.gg/FRPbrSP'
