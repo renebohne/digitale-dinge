@@ -28,7 +28,11 @@ seo:
       value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Aus dem Lockdown entstand die "Online Lab Night". Nach zwei Staffeln und
+        64 Episoden wurde es Zeit für einen neuen Namen und ein neues Design.
+        Deswegen gehen wir am 2.11.2021 als "Digitale Dinge" wieder live auf
+        Sendung!
       keyName: property
     - name: 'og:image'
       value: images/classic/post-1.png
