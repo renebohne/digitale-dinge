@@ -32,7 +32,10 @@ seo:
       value: Switchbot
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        Wir werden in der ersten Episode der Live-Sendung über den Switchbot
+        sprechen. Wir können überlegen, was Maker aus den Produkten rausholen
+        können. 
       keyName: property
     - name: 'og:image'
       value: /images/switchbot.jpg
