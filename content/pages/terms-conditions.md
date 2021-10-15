@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Impressum
     - name: 'twitter:description'
-      value: This is the terms and conditions page
+      value: Impressum
 layout: page
 ---
 ## Angaben gemäß §5 TMG
