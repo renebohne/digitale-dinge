@@ -46,7 +46,10 @@ seo:
     - name: 'twitter:title'
       value: Switchbot
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        Wir werden in der ersten Episode der Live-Sendung über den Switchbot
+        sprechen. Wir können überlegen, was Maker aus den Produkten rausholen
+        können. 
     - name: 'twitter:image'
       value: /images/switchbot.jpg
       relativeUrl: true
