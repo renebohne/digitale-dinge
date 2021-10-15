@@ -29,7 +29,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in Tutorials
+      value: Tutorials
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
