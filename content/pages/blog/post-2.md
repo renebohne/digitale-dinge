@@ -31,7 +31,7 @@ seo:
       value: Quae diligentissime contra Aristonem dicuntur a Chryippo
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-2.png
+      value: /images/Design ohne Titel (2).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
