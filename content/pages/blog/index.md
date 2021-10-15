@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Digitale Dinge
+  title: Digitale Dinge - Blog
   description: >-
     Neuigkeiten aus den Bereichen Smart Home, Internet der Dinge (IoT),
     Raspberry Pi, Arduino, ESP8266 , ESP32, DIY und Maker Community
