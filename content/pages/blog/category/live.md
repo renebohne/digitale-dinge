@@ -35,7 +35,7 @@ seo:
       value: This is the author archive page
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/onlinelabnight.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
