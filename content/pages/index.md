@@ -117,9 +117,11 @@ sections:
     title: Triff uns bei Discord!
     content: >
       Wir freuen uns, Dich kennenzulernen. Unsere offene Community besteht aus
-      Makern und Technik Enthusiasten, die sich gegenseitig inspirieren und
+      Makern und Technik-Enthusiasten, die sich gegenseitig inspirieren und
       voneinander lernen wollen. Wir tauschen Wissen aus und finden für jedes
-      technische Problem eine Lösung.
+      technische Problem eine Lösung. Wir freuen uns, mit Dir über Themen wie
+      Internet der Dinge (IoT), Arduino, Raspberry Pi, ESP32, Smart Home oder
+      LoRa zu sprechen - oder vielleicht bringst Du ja ganz neue Themen mit?!
     actions:
       - label: Discord
         url: 'https://discord.gg/FRPbrSP'
