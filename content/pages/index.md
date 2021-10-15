@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Die Digitale Gemeinschaft
-    subtitle: Maker und digitale Dinge
+    subtitle: Maker und das Internet der Dinge (IoT)
     content: >
       Was steckt hinter Digitale-Dinge, wie kann man mitmachen und was ist
       wichtig?
