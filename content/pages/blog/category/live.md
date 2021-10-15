@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:title'
       value: Live Sendung
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: 'Dies ist das Archiv unserer Live Sendung. '
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
