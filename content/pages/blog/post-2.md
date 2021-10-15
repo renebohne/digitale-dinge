@@ -45,7 +45,7 @@ seo:
         Auf dieser Seite sammeln wir Themenvorschläge, die wir im Livechat bei
         YouTube und Discord erhalten haben. 
     - name: 'twitter:image'
-      value: images/classic/post-2.png
+      value: /images/Design ohne Titel (2).png
       relativeUrl: true
 layout: post
 ---
