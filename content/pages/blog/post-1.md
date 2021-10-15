@@ -35,7 +35,7 @@ seo:
         Sendung!
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /images/onlinelabnight.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
