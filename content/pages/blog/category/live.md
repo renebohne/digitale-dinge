@@ -23,7 +23,7 @@ sections:
     has_border: true
 seo:
   title: Live Sendung
-  description: This is the author archive page
+  description: 'Dies ist das Archiv unserer Live Sendung. '
   extra:
     - name: 'og:type'
       value: website
