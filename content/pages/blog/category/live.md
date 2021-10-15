@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:description'
       value: 'Dies ist das Archiv unserer Live Sendung. '
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/onlinelabnight.png
       relativeUrl: true
 layout: advanced
 ---
