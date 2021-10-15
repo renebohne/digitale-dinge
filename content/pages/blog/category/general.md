@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Posts in General
+  title: Allgemeine Beiträge
   description: Dies ist die Übersicht über alle Beiträge in der Kategorie 'Allgemein'.
   extra:
     - name: 'og:type'
