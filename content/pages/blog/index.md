@@ -46,7 +46,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Digitale Dinge - Blog
     - name: 'twitter:description'
       value: >-
         In unserem Blog gibt es Neuigkeiten aus den Bereichen Smart Home,
