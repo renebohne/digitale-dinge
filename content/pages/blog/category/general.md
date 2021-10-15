@@ -29,7 +29,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in General
+      value: Allgemeine Beiträge
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
