@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in General
+      value: Allgemeine Beiträge
     - name: 'twitter:description'
       value: Dies ist die Übersicht über alle Beiträge in der Kategorie 'Allgemein'.
     - name: 'twitter:image'
