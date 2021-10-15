@@ -17,7 +17,9 @@ image_alt: Post 2 placeholder image
 image_position: left
 seo:
   title: Themenvorschläge
-  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
+  description: >-
+    Auf dieser Seite sammeln wir Themenvorschläge, die wir im Livechat bei
+    YouTube und Discord erhalten haben. 
   extra:
     - name: 'og:type'
       value: article
