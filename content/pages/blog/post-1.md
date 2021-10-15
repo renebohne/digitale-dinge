@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Es war einmal... die Online Lab Night
     - name: 'twitter:description'
       value: >-
         Aus dem Lockdown entstand die "Online Lab Night". Nach zwei Staffeln und
