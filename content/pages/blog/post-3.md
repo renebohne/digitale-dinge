@@ -55,4 +55,4 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Es wird einen auführlichen Teardown geben und wir können überlegen, was man aus den Produkten alles rausholen kann. Dieser Post wird bald erweitert ;)
+Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Es wird ein ausführliches Review geben und wir können überlegen, was man aus den Produkten alles rausholen kann. Dieser Post wird bald erweitert ;)
