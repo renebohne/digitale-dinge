@@ -20,7 +20,10 @@ image_alt: Post 3 placeholder image
 image_position: top
 seo:
   title: Switchbot
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: >-
+    Wir werden in der ersten Episode der Live-Sendung über den Switchbot
+    sprechen. Wir können überlegen, was Maker aus den Produkten rausholen
+    können. 
   extra:
     - name: 'og:type'
       value: article
