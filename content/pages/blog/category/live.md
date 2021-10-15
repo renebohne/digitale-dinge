@@ -32,7 +32,7 @@ seo:
       value: Posts in News
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: 'Dies ist das Archiv unserer Live Sendung. '
       keyName: property
     - name: 'og:image'
       value: /images/onlinelabnight.png
