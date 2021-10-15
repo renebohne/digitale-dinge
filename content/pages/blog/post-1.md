@@ -46,8 +46,6 @@ seo:
       value: >-
         Aus dem Lockdown entstand die "Online Lab Night". Nach zwei Staffeln und
         64 Episoden wurde es Zeit für einen neuen Namen und ein neues Design.
-        Deswegen gehen wir am 2.11.2021 als "Digitale Dinge" wieder live auf
-        Sendung!
     - name: 'twitter:image'
       value: /images/onlinelabnight.png
       relativeUrl: true
