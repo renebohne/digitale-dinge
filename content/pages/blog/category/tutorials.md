@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Posts in Tutorials
+  title: Tutorials
   description: This is the author archive page
   extra:
     - name: 'og:type'
