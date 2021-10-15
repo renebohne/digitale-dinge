@@ -16,7 +16,7 @@ image: /images/Design ohne Titel (2).png
 image_alt: Post 2 placeholder image
 image_position: left
 seo:
-  title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+  title: Themenvorschläge
   description: Quae diligentissime contra Aristonem dicuntur a Chryippo
   extra:
     - name: 'og:type'
