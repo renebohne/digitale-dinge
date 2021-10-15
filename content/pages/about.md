@@ -83,7 +83,10 @@ seo:
       value: Über uns
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Uns motivieren die Möglichkeiten, die die Digitalisierung und das
+        Internet der Dinge mit sich bringen. Wie können wir Tüftler, Make,
+        Künstler und Ingenieure die Welt verändern?
       keyName: property
     - name: 'og:image'
       value: /images/rene_sw.jpg
