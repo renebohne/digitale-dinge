@@ -29,7 +29,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in News
+      value: Live Sendung
       keyName: property
     - name: 'og:description'
       value: 'Dies ist das Archiv unserer Live Sendung. '
