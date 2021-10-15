@@ -35,7 +35,7 @@ seo:
       value: Dies ist Renés Archiv
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/rene_sw.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
