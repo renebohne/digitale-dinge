@@ -97,7 +97,10 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Uns motivieren die Möglichkeiten, die die Digitalisierung und das
+        Internet der Dinge mit sich bringen. Wie können wir Tüftler, Make,
+        Künstler und Ingenieure die Welt verändern?
     - name: 'twitter:image'
       value: /images/rene_sw.jpg
       relativeUrl: true
