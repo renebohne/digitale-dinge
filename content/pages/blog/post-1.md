@@ -49,7 +49,7 @@ seo:
         Deswegen gehen wir am 2.11.2021 als "Digitale Dinge" wieder live auf
         Sendung!
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /images/onlinelabnight.png
       relativeUrl: true
 layout: post
 ---
