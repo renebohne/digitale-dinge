@@ -25,7 +25,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: Themenvorschläge
       keyName: property
     - name: 'og:description'
       value: >-
