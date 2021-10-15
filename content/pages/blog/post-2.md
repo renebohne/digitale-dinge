@@ -28,7 +28,9 @@ seo:
       value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
       keyName: property
     - name: 'og:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Auf dieser Seite sammeln wir Themenvorschläge, die wir im Livechat bei
+        YouTube und Discord erhalten haben. 
       keyName: property
     - name: 'og:image'
       value: /images/Design ohne Titel (2).png
