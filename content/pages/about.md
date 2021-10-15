@@ -74,7 +74,10 @@ sections:
     background_color: primary
 seo:
   title: About
-  description: This is the about us page
+  description: >-
+    Uns motivieren die Möglichkeiten, die die Digitalisierung und das Internet
+    der Dinge mit sich bringen. Wie können wir Tüftler, Make, Künstler und
+    Ingenieure die Welt verändern?
   extra:
     - name: 'og:type'
       value: website
