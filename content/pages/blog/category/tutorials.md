@@ -23,7 +23,7 @@ sections:
     has_border: true
 seo:
   title: Tutorials
-  description: This is the author archive page
+  description: Das ist das Archiv unserer Tutorials.
   extra:
     - name: 'og:type'
       value: website
