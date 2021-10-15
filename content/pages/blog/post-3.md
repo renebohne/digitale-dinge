@@ -19,7 +19,7 @@ image: /images/switchbot.jpg
 image_alt: Post 3 placeholder image
 image_position: top
 seo:
-  title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+  title: Switchbot
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
