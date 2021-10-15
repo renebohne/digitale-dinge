@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:title'
       value: Posts in General
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Dies ist die Übersicht über alle Beiträge in der Kategorie 'Allgemein'.
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
