@@ -4,7 +4,7 @@ subtitle: >-
   Es gibt Sachen, die kannst Du Dir nicht ausdenken! Manche Erfindungen sind so
   innovativ, dass man sich auf den ersten Blick sehr wundert. Aber manche sind
   auch wirklich genial!
-date: '2021-09-01'
+date: '2021-11-01'
 author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
