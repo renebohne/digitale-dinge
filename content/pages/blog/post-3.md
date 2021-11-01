@@ -60,7 +60,9 @@ src="https://www.youtube.com/embed/0ed_43Tv6Jg?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Eigentlich muss es "das Switchbot Ökosystem" heißen, denn es handelt sich nicht mehr um ein einzelnes Produkt, sondern um eine Serie von digitalen Dingen, die intelligent miteinander zusammenarbeiten. Diese Woche verschaffen wir uns einen Überblick über
+
+
+Wir werden in der ersten Episode der Live-Sendung (2. November 2021, 21 Uhr) über den Switchbot sprechen. Eigentlich muss es "das Switchbot Ökosystem" heißen, denn es handelt sich nicht mehr um ein einzelnes Produkt, sondern um eine Serie von digitalen Dingen, die intelligent miteinander zusammenarbeiten. Diese Woche verschaffen wir uns einen Überblick über:
 
 *   Switchbot Hub Mini
 
@@ -80,19 +82,19 @@ Nach der Sendung wird es hier weitere Informationen geben, aber hier schon vorab
 
 ## Switchbot Hub Mini
 
-Das Hub ist das Herzstück des Setups. Zwar kann man alle Geräte auch ohne Hub direkt via Bluetooth Low Energy (BLE) über die kostenlose Smartphone App verwenden, aber das Hub bietet die zusätzliche Möglichkeit, die Geräte zu vernetzen und via WLAN Daten an weitere Dienste wie z.B. Amazon Alexa zu senden. Zusätzlich ist in dem Hub eine IR-LED eingebaut, mit der man TVs, Klimaanlagen, Stereoanlage, etc. steuern kann.
+Das Hub ist das Herzstück des Setups. Zwar kann man alle Geräte auch ohne Hub direkt via Bluetooth Low Energy (BLE) über die kostenlose Smartphone App verwenden, aber das Hub bietet die zusätzliche Möglichkeit, die Geräte zu vernetzen und via WLAN Daten an weitere Dienste wie z.B. Amazon Alexa zu senden. Außerdem ist in dem Hub eine IR-LED eingebaut, mit der man TVs, Klimaanlagen, Stereoanlage, etc. steuern kann.
 
 ## Switchbot Bot
 
-Der Bot ist ein winziges Bauteil, das man an jeden beliebigen Schalter oder Taster kleben kann. Ein kleiner Arm drückt auf den zu steuernden Schalter und ein Klebepad kann ihn wieder zurück ziehen. Mit dem Bot können somit Lichtschalter betätigt werden, Kaffeemaschinen ein- und ausgeschaltet werden oder andere Dinge gesteuert werden, die bisher nicht digital waren. Alles, was man mit seinen Händen schalten kann, kann der Switchbot Bot auch schalten. Er ist nur nicht ganz so stark und man muss bei der Installation ein wenig Geschick mitbringen. Sicher gibt es auch Orte, an denen man das Bauteil nicht anbringen kann. Aber alles in allem, bietet dieses pfiffige Teil viele ungeahnte Möglichkeiten. Eine Batterie ist eingebaut.
+Der Bot ist ein winziges Bauteil, das man an jeden beliebigen Schalter oder Taster kleben kann. Ein kleiner Arm drückt auf den zu steuernden Schalter und ein Klebepad kann ihn wieder zurück ziehen. Mit dem Bot können Lichtschalter betätigt werden, Kaffeemaschinen ein- und ausgeschaltet werden oder andere Dinge gesteuert werden, die bisher nicht digital waren. Alles, was man mit seinen Händen schalten kann, kann der Switchbot Bot auch schalten. Er ist nur nicht ganz so stark und man muss bei der Installation ein wenig Geschick mitbringen. Sicher gibt es auch Orte, an denen man das Bauteil nicht anbringen kann. Aber alles in allem bietet dieses pfiffige Teil viele ungeahnte Möglichkeiten. Eine Batterie ist eingebaut.
 
 ## Switchbot Remote
 
-Die Remote ist der BLE Knopf auf den wir alle gewartet haben! Zwei kleine Taster können frei programmiert werden, z.B. um einen Bot zu schalten oder um etwas anderes im Smart Home auszulösen. Da die Remote sehr klein ist und eine Batterie hat, kann man sie überall mit hinnehmen und notfalls sogar als Klingeltaster verwenden. Eine Knopfzelle ist im Lieferumfang.
+Die Remote ist der BLE Knopf auf den wir alle gewartet haben! Zwei kleine Taster können frei programmiert werden, z.B. um einen Bot zu schalten oder um etwas anderes im Smart Home auszulösen. Da die Remote sehr klein ist und eine Batterie hat, kann man sie überall hin mitnehmen und notfalls sogar als Klingeltaster verwenden. Eine Knopfzelle befindet sich im Lieferumfang.
 
 ## Switchbot Contact Sensor
 
-Dieser Kontaktsensor besteht aus dem Sensor und einem Magneten. Mit dem Setup kann man Türen, Fenster oder andere Sachen überwachen. Es ist zusätzlich ein Helligkeitssensor und ein Taster eingebaut. Je nach Zustand (offen/geschlossen) können Aktivitäten getriggert werden. Außerdem kann die Helligkeit abgefragt werden oder der Taster eine Aktion auslösen. Im Lieferumfang sind zwei AAA Batterien und Installationsmaterial.
+Dieser Kontaktsensor besteht aus dem eigentlichen Sensor und einem Magneten. Mit dem Setup kann man Türen, Fenster oder andere Sachen überwachen. Es ist zusätzlich ein Helligkeitssensor und ein Taster eingebaut. Je nach Zustand (offen/geschlossen) können Aktivitäten getriggert werden. Außerdem kann die Helligkeit abgefragt werden oder der Taster eine Aktion auslösen. Im Lieferumfang sind zwei AAA Batterien und Installationsmaterial.
 
 ## Switchbot Motion Sensor
 
