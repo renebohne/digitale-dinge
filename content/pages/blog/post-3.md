@@ -103,5 +103,3 @@ Dieser Sensor misst die Temperatur und Luftfeuchtigkeit, zeigt die Messwerte auf
 src="https://www.youtube.com/embed/0ed_43Tv6Jg?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-https://youtu.be/
