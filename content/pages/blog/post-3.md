@@ -98,8 +98,3 @@ Dieser ziemlich kleine Bewegungsmelder kann auf unterschiedliche Weise montiert 
 Switchbot Thermometer and Hygrometer
 
 Dieser Sensor misst die Temperatur und Luftfeuchtigkeit, zeigt die Messwerte auf einem großen Display an und sendet sie via BLE. In der App kann man einstellen, welche Bedingungen einen Alarm auslösen sollen und zusätzlich kann die Historie der Messwerte dort in einem Graphen angezeigt werden. Im Lieferumfang sind zwei AAA Batterien.
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/0ed_43Tv6Jg?modestbranding=1"
-frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-gyroscope; picture-in-picture" allowfullscreen></iframe>
