@@ -15,7 +15,7 @@ excerpt: >-
   gibt es einen Blog-Beitrag mit mehr Details.
 thumb_image: /images/switchbot.jpg
 thumb_image_alt: Post 3 placeholder image
-image: /images/switchbot.jpg
+image: '/images/Digitale Dinge #1 Switchbot.png'
 image_alt: Post 3 placeholder image
 image_position: top
 seo:
