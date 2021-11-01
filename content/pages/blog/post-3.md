@@ -104,5 +104,3 @@ video_embed_html: >-
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
           frameborder="0" allow="accelerometer; autoplay; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
-        media_position: left
-        media_width: fifty
