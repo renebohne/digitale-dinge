@@ -55,4 +55,17 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Es wird ein ausführliches Review geben und wir können überlegen, was man aus den Produkten alles rausholen kann. Dieser Post wird bald erweitert ;)
+Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Eigentlich muss es "das Switchbot Ökosystem" heißen, denn es handelt sich nicht mehr um ein einzelnes Produkt, sondern um eine Serie von digitalen Dingen, die intelligent miteinander zusammenarbeiten. Diese Woche verschaffen wir uns einen Überblick über
+
+*   Switchbot Hub Mini
+
+*   Switchbot Bot
+
+*   Switchbot Remote
+
+*   Switchbot Contact Sensor
+
+*   Switchbot Motion Sensor
+
+*   Switchbot Thermometer and Hygrometer
+
