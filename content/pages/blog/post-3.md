@@ -38,7 +38,7 @@ seo:
         können. 
       keyName: property
     - name: 'og:image'
-      value: /images/switchbot.jpg
+      value: /images/DigitaleDinge1Switchbot.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
