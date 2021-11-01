@@ -51,7 +51,7 @@ seo:
         sprechen. Wir können überlegen, was Maker aus den Produkten rausholen
         können. 
     - name: 'twitter:image'
-      value: /images/switchbot.jpg
+      value: /images/DigitaleDinge1Switchbot.png
       relativeUrl: true
 layout: post
 ---
