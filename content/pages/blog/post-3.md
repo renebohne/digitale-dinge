@@ -1,5 +1,5 @@
 ---
-title: Swichbot
+title: Hausautomatisierung mit Swichbot
 subtitle: >-
   Es gibt Sachen, die kannst Du Dir nicht ausdenken! Manche Erfindungen sind so
   innovativ, dass man sich auf den ersten Blick sehr wundert. Aber manche sind
