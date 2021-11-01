@@ -13,7 +13,7 @@ tags: []
 excerpt: >-
   In der ersten Livesendung wollen wir uns Switchbot angucken. Zu jeder Sendung
   gibt es einen Blog-Beitrag mit mehr Details.
-thumb_image: /images/switchbot.jpg
+thumb_image: /images/DigitaleDinge1Switchbot.png
 thumb_image_alt: Post 3 placeholder image
 image: /images/DigitaleDinge1Switchbot.png
 image_alt: Post 3 placeholder image
