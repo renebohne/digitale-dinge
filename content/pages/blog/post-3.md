@@ -4,7 +4,7 @@ subtitle: >-
   Es gibt Sachen, die kannst Du Dir nicht ausdenken! Manche Erfindungen sind so
   innovativ, dass man sich auf den ersten Blick sehr wundert. Aber manche sind
   auch wirklich genial!
-date: '2021-09-29'
+date: '2021-11-01'
 author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
@@ -55,6 +55,11 @@ seo:
       relativeUrl: true
 layout: post
 ---
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/0ed_43Tv6Jg?modestbranding=1"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Eigentlich muss es "das Switchbot Ökosystem" heißen, denn es handelt sich nicht mehr um ein einzelnes Produkt, sondern um eine Serie von digitalen Dingen, die intelligent miteinander zusammenarbeiten. Diese Woche verschaffen wir uns einen Überblick über
 
 *   Switchbot Hub Mini
