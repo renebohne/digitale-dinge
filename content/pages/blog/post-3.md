@@ -55,6 +55,8 @@ seo:
       relativeUrl: true
 layout: post
 ---
+
+
 Wir werden in der ersten Episode der Live-Sendung über den Switchbot sprechen. Eigentlich muss es "das Switchbot Ökosystem" heißen, denn es handelt sich nicht mehr um ein einzelnes Produkt, sondern um eine Serie von digitalen Dingen, die intelligent miteinander zusammenarbeiten. Diese Woche verschaffen wir uns einen Überblick über
 
 *   Switchbot Hub Mini
