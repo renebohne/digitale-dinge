@@ -60,9 +60,6 @@ src="https://www.youtube.com/embed/Uowm1uFO8tE?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://youtu.be/Uowm1uFO8tE
-
-
 Wir werden in der ersten Episode der Live-Sendung (2. November 2021, 21 Uhr) über den Switchbot sprechen. Eigentlich muss es "das Switchbot Ökosystem" heißen, denn es handelt sich nicht mehr um ein einzelnes Produkt, sondern um eine Serie von digitalen Dingen, die intelligent miteinander zusammenarbeiten. Diese Woche verschaffen wir uns einen Überblick über:
 
 *   Switchbot Hub Mini
