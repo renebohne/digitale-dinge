@@ -41,7 +41,7 @@ curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devic
 
 Natürlich muss MEINGEHEIMESTOKEN durch das tatsächliche Open Token ersetzt werden.
 
-Um mehr Details über ein spezifi
+Um mehr Details über ein 
 
 
 # Wie geht das mit node.js?
