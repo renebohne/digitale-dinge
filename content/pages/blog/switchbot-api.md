@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Switchbot API
 subtitle: lorem-ipsum
 date: '2021-11-09'
 categories: []
