@@ -24,7 +24,7 @@ gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Einleitung
 
-Letzte Woche haben wir uns einen Überblick über das Switchbot Ö
+Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem verschafft. 
 
 
 # Die Switchbot REST API
