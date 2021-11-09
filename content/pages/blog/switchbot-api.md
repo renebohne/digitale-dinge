@@ -28,7 +28,7 @@ Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem versc
 
 # Die Switchbot REST API
 
-Zunächst müssen wir verstehen, was die 
+Zunächst müssen wir verstehen, was die Switchbot REST API überhaupt ist. 
 
 
 # Beispiele mit cURL
