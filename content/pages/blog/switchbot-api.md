@@ -1,6 +1,6 @@
 ---
 title: Switchbot API
-subtitle: lorem-ipsum
+subtitle: Wir nutzen die REST API mit cURL und Javascript
 date: '2021-11-09'
 categories: []
 tags: []
