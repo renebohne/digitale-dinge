@@ -67,7 +67,7 @@ Um die Switchbot REST API mit node.js zu verwenden, legt man zunächst ein neues
 npm install --save axios
 ```
 
-Aus der main.js des genannten Adapters haben wir etwas Code entnommen und ihn für dieses Tutorial vereinfacht, bitte in index.js speichern:
+Aus der main.js des genannten Adapters haben wir etwas Code entnommen und ihn für dieses Tutorial vereinfacht, bitte in (eine neu anzulgende Datei) index.js speichern:
 
 ```index.js
 const axios = require('axios');
