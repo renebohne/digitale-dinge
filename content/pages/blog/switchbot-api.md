@@ -69,7 +69,7 @@ npm install --save axios
 
 Aus der main.js des genannten Adapters haben wir etwas Code entnommen und ihn für dieses Tutorial vereinfacht:´
 
-```
+```index.js
 const axios = require('axios');
 
 var config = require('./config');
