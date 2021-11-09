@@ -15,6 +15,7 @@ seo:
   extra: []
 layout: post
 thumb_image: /images/DigitaleDinge_2_Switchbot_API.png
+image: /images/DigitaleDinge_2_Switchbot_API.png
 ---
 ## Lorem ipsum
 
