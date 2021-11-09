@@ -24,7 +24,7 @@ gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Einleitung
 
-Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem verschafft. Nun wäre der nächste Schritt, die Firmware der Geräte zu verändern, aber da andere Mikrocontroller als erhofft zum Einsatz kommen, haben wir uns etwas anderes einfallen lassen: wir 
+Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem verschafft. Nun wäre der nächste Schritt, die Firmware der Geräte zu verändern, aber da andere Mikrocontroller als erhofft zum Einsatz kommen, haben wir uns etwas anderes einfallen lassen: wir schauen uns die Switchbot REST API an, mit der man auf die Daten der Geräte 
 
 
 # Die Switchbot REST API
