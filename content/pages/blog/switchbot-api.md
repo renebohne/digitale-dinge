@@ -62,3 +62,10 @@ Leider gibt es noch keine Javascript Library für die Switchbot REST API. Als In
 https://github.com/DrozmotiX/ioBroker.switchbot-hub
 
 Aus der main.js dieses Adapters haben wir etwas Code entnommen und ihn für dieses Tutorial vereinfacht. 
+
+
+
+
+
+
+
