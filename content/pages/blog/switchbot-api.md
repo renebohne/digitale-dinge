@@ -166,7 +166,9 @@ async function getDeviceStatus(deviceId) {
 getDevices();
 ```
 
-Der Code geht davon aus, dass im selben Verzeichnis eine Datei 
+Der Code geht davon aus, dass im selben Verzeichnis eine Datei namens config.js zu finden ist mit folgendem Inhalt:
+
+
 
 
 
