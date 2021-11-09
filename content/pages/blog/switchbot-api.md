@@ -51,5 +51,6 @@ Es ist sogar möglich, spezielle Geräte, wie z.B. den Switchbot Bot zu steuern.
 
 curl -H "Authorization: MEINGEHEIMESTOKEN" -d '{"command": "turnOn", "parameter": "default", "commandType": "command"}' -H "Content-Type: application/json" -X POST https://api.switch-bot.com/v1.0/devices/MEINEDEVICEID/commands
 
+
 # Wie geht das mit node.js?
 
