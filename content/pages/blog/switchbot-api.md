@@ -49,7 +49,7 @@ MEINEDEVICEID muss dabei durch die DeviceID des Geräts ersetzt werden, für wel
 
 Es ist sogar möglich, spezielle Geräte, wie z.B. den Switchbot Bot zu steuern. Dafür wird nicht mehr die HTTP GET Methode verwendet, sondern der Befehl wird als JSON im Body eines HTTP POST Befehlt übermittelt. Einsen Switchbot Bot kann man z.B. wie folgt auslösen:
 
-
+curl -H "Authorization: $SBAPI" -d '{"command": "turnOn", "parameter": "default", "commandType": "command"}' -H "Content-Type: application/json" -X POST https://api.switch-bot.com/v1.0/devices/F2083EE7BCA8/commands
 
 # Wie geht das mit node.js?
 
