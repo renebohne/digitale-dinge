@@ -24,33 +24,30 @@ gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Einleitung
 
-Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem verschafft. Nun wäre der nächste Schritt, die Firmware der Geräte zu verändern, aber da andere Mikrocontroller als erhofft zum Einsatz kommen, haben wir uns etwas anderes einfallen lassen: wir schauen uns die Switchbot REST API an, mit der man auf die Daten der Geräte dank Cloud von überall auf der Welt zugreifen kann. Da die Dokumentation sehr gut ist, haben wir hier ein super Beispiel, um zu lernen, wie man eine echte REST API benutzt. Um den Einstieg so einfach wie möglich zu halten, nutzen wir erst cURL in einem Terminal und nutzen im zweiten Schritt node.js - aber es gibt auch fertige Adapter für iobroker und alle anderen Smart Home Systeme. 
+Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem verschafft. Nun wäre der nächste Schritt, die Firmware der Geräte zu verändern, aber da andere Mikrocontroller als erhofft zum Einsatz kommen, haben wir uns etwas anderes einfallen lassen: wir schauen uns die Switchbot REST API an, mit der man auf die Daten der Geräte dank Cloud von überall auf der Welt zugreifen kann. Da die Dokumentation sehr gut ist, haben wir hier ein super Beispiel, um zu lernen, wie man eine echte REST API benutzt. Um den Einstieg so einfach wie möglich zu halten, nutzen wir erst cURL in einem Terminal und nutzen im zweiten Schritt node.js - aber es gibt auch fertige Adapter für iobroker und alle anderen Smart Home Systeme.
 
 # Die Switchbot REST API
 
-Zunächst müssen wir verstehen, was die Switchbot REST API überhaupt ist. Die Dokumentation befindet sich frei zugänglich auf https://github.com/OpenWonderLabs/SwitchBotAPI
+Zunächst müssen wir verstehen, was die Switchbot REST API überhaupt ist. Die Dokumentation befindet sich frei zugänglich auf <https://github.com/OpenWonderLabs/SwitchBotAPI>
 
 Dort steht beschrieben, wie man an das "Open Token" gelangt, mit dem man Zugriff auf die Daten der Geräte erhält. Wer das Token hat, kann auf die Daten zugreifen, also sollte man es geheim halten! Und anders herum: wer das Token nicht hat, kann nicht auf die Daten meiner Geräte zugreifen. In Kombination mit der Verschlüsselung ist das ein recht guter Sicherheitsstandard.
-
 
 # REST API mit cURL benutzen
 
 Um alle Geräte aufzulisten, kann dieser cURL Befehl im Terminal verwendet werden:
 
-curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/
+> curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/
 
 Natürlich muss MEINGEHEIMESTOKEN durch das tatsächliche Open Token ersetzt werden.
 
 Um mehr Details über ein Gerät abzurufen, kann dieser Befehl verwendet werden:
 
-curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/MEINEDEVICEID/status
+> curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/MEINEDEVICEID/status
 
 MEINEDEVICEID muss dabei durch die DeviceID des Geräts ersetzt werden, für welches die Details abgerufen werden sollen. Die DeviceId steht z.B. in der langen Liste, die von dem vorherigen Befehl zurückgegeben wurde.
 
 Es ist sogar möglich, spezielle Geräte, wie z.B. den Switchbot Bot zu steuern. Dafür wird nicht mehr die HTTP GET Methode verwendet, sondern der Befehl wird als JSON im Body eines HTTP POST Befehlt übermittelt. Einsen Switchbot Bot kann man z.B. wie folgt auslösen:
 
-curl -H "Authorization: MEINGEHEIMESTOKEN" -d '{"command": "turnOn", "parameter": "default", "commandType": "command"}' -H "Content-Type: application/json" -X POST https://api.switch-bot.com/v1.0/devices/MEINEDEVICEID/commands
-
+> curl -H "Authorization: MEINGEHEIMESTOKEN" -d '{"command": "turnOn", "parameter": "default", "commandType": "command"}' -H "Content-Type: application/json" -X POST https://api.switch-bot.com/v1.0/devices/MEINEDEVICEID/commands
 
 # Wie geht das mit node.js?
-
