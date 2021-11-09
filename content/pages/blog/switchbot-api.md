@@ -58,4 +58,4 @@ curl -H "Authorization: MEINGEHEIMESTOKEN" -d '{"command": "turnOn", "parameter"
 
 # Wie geht das mit node.js?
 
-Leider gibt es noch keine Javascript Library für Switchbot. 
+Leider gibt es noch keine Javascript Library für die Switchbot REST API. 
