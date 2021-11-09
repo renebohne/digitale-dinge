@@ -39,6 +39,9 @@ Um alle Geräte aufzulisten, kann dieser cURL Befehl im Terminal verwendet werde
 
 curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/
 
+Natürlich muss MEINGEHEIMESTOKEN durch das tatsächliche Open Token ersetzt werden.
+
+
 
 
 # Wie geht das mit node.js?
