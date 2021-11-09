@@ -43,7 +43,7 @@ Natürlich muss MEINGEHEIMESTOKEN durch das tatsächliche Open Token ersetzt wer
 
 Um mehr Details über ein Gerät abzurufen, kann dieser Befehl verwendet werden:
 
-curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/DEVICEID/status
+curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/MEINEDEVICEID/status
 
 
 # Wie geht das mit node.js?
