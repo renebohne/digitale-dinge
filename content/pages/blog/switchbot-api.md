@@ -166,7 +166,7 @@ async function getDeviceStatus(deviceId) {
 getDevices();
 ```
 
-Der Code geht da
+Der Code geht davon aus, dass im selben Verzeichnis eine Datei 
 
 
 
