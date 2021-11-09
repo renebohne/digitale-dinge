@@ -12,7 +12,7 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: Die Switchbot REST API
-  description: ''
+  description: Wie nutzt man die Switchbot REST API mit cURL und node.js Javascript?
   robots: []
   extra: []
 layout: post
