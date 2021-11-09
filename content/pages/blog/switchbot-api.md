@@ -22,6 +22,7 @@ seo:
 layout: post
 thumb_image: /images/DigitaleDinge_2_Switchbot_API.png
 image: /images/DigitaleDinge_2_Switchbot_API.png
+author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/A5F7fOnhNvg?modestbranding=1"
