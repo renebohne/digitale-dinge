@@ -171,7 +171,7 @@ Der Code geht davon aus, dass im selben Verzeichnis eine Datei namens config.js 
 ```config.js
 var config = {};
 
-config.openToken = 'MEIN';
+config.openToken = 'MEINGEHEIMESTOKEN';
 
 module.exports = config;
 
