@@ -178,13 +178,7 @@ module.exports = config;
 
 ```
 
-
-
-
-
-
-
-
+Natürlich muss in der Datei MEINGEHEIMESTOKEN
 
 
 
