@@ -164,8 +164,8 @@ async function getDeviceStatus(deviceId) {
 }
 
 getDevices();
-
 ```
+
 
 
 
