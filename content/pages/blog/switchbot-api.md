@@ -2,17 +2,23 @@
 title: Switchbot API
 subtitle: Wir nutzen die REST API mit cURL und Javascript
 date: '2021-11-09'
-categories: []
+categories:
+  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/tutorials.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 seo:
-  title: ''
-  description: ''
+  title: Die Switchbot REST API
+  description: Wie nutzt man die Switchbot REST API mit cURL und node.js Javascript?
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/DigitaleDinge_2_Switchbot_API.png
+      keyName: property
+      relativeUrl: true
 layout: post
 thumb_image: /images/DigitaleDinge_2_Switchbot_API.png
 image: /images/DigitaleDinge_2_Switchbot_API.png
