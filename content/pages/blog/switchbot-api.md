@@ -14,7 +14,11 @@ seo:
   title: Die Switchbot REST API
   description: Wie nutzt man die Switchbot REST API mit cURL und node.js Javascript?
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/DigitaleDinge_2_Switchbot_API.png
+      keyName: property
+      relativeUrl: true
 layout: post
 thumb_image: /images/DigitaleDinge_2_Switchbot_API.png
 image: /images/DigitaleDinge_2_Switchbot_API.png
