@@ -36,7 +36,9 @@ Dort steht beschrieben, wie man an das "Open Token" gelangt, mit dem man Zugriff
 
 Um alle Geräte aufzulisten, kann dieser cURL Befehl im Terminal verwendet werden:
 
-``` curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/
+```
+curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/
+```
 
 Natürlich muss MEINGEHEIMESTOKEN durch das tatsächliche Open Token ersetzt werden.
 
