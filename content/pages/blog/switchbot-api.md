@@ -168,7 +168,8 @@ getDevices();
 
 Der Code geht davon aus, dass im selben Verzeichnis eine Datei namens config.js zu finden ist mit folgendem Inhalt:
 
-```
+```config.js
+
 
 ```
 
