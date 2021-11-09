@@ -178,7 +178,7 @@ module.exports = config;
 
 ```
 
-Natürlich muss in der Datei MEINGEHEIMESTOKEN
+Natürlich muss in der Datei der Text MEINGEHEIMESTOKEN durch das zuvor bestimmte Open Token 
 
 
 
