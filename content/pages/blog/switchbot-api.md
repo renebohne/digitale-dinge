@@ -184,7 +184,9 @@ Nun kann das Programm gestartet werden mit diesem Befehl:
 node index.js
 ```
 
+Es sollten zunächst alle verfügbaren Geräte aufgelistet und gezählt werden und dann für jedes einzelne Gerät die Details abgefragt werden.
 
+Auf diesem Stand kann man sein eigenes Projekt fortführen. Schreibt doch in unserem Discord, was ihr gebaut habt oder ob es Fragen gibt.
 
 
 
