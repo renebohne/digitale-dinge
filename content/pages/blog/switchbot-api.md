@@ -180,6 +180,11 @@ Natürlich muss in der Datei der Text MEINGEHEIMESTOKEN durch das zuvor bestimmt
 
 Nun kann das Programm gestartet werden mit diesem Befehl:
 
+```
+node index.js
+```
+
+
 
 
 
