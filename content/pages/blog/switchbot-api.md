@@ -24,7 +24,7 @@ gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Einleitung
 
-Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem verschafft. Nun wäre der nächste Schritt, die Firmware der Geräte 
+Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem verschafft. Nun wäre der nächste Schritt, die Firmware der Geräte zu verändern, aber es 
 
 
 # Die Switchbot REST API
