@@ -64,6 +64,9 @@ https://github.com/DrozmotiX/ioBroker.switchbot-hub
 Um die Switchbot REST API mit node.js zu verwenden, legt man zunächst ein neues Verzeichnis an und ruft dann npm init auf. Dann hat man die Qual der Wahl, aber um dem Beispiel des ioBroker Adapters zu folgen, wollen wir ebenfalls die axios Library verwenden. Diese muss wie folgt installiert werden:
 
 ```
+npm install --save axios
+```
+
 
 Aus der main.js dieses Adapters haben wir etwas Code entnommen und ihn für dieses Tutorial vereinfacht:´
 
