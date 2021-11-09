@@ -41,7 +41,9 @@ curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devic
 
 Natürlich muss MEINGEHEIMESTOKEN durch das tatsächliche Open Token ersetzt werden.
 
-Um mehr Details über ein Gerät abzurufen, 
+Um mehr Details über ein Gerät abzurufen, kann dieser Befehl verwendet werden:
+
+curl -H "Authorization: $SBAPI" https://api.switch-bot.com/v1.0/devices/E2DB68507AE6/status
 
 
 # Wie geht das mit node.js?
