@@ -2,7 +2,8 @@
 title: Switchbot API
 subtitle: Wir nutzen die REST API mit cURL und Javascript
 date: '2021-11-09'
-categories: []
+categories:
+  - content/data/categories/category-ek9kokp5k.json
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
