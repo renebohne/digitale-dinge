@@ -47,7 +47,9 @@ curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devic
 
 MEINEDEVICEID muss dabei durch die DeviceID des Geräts ersetzt werden, für welches die Details abgerufen werden sollen. Die DeviceId steht z.B. in der langen Liste, die von dem vorherigen Befehl zurückgegeben wurde.
 
-Es ist sogar möglich, spezielle Geräte, wie z.B. den Switchbot Bot zu steuern. Dafür wird nicht mehr die HTTP GET Methode verwendet, sondern der Befehl wird als JSON im Body eines HTTP POST Befehlt übermittelt
+Es ist sogar möglich, spezielle Geräte, wie z.B. den Switchbot Bot zu steuern. Dafür wird nicht mehr die HTTP GET Methode verwendet, sondern der Befehl wird als JSON im Body eines HTTP POST Befehlt übermittelt. Einsen Switchbot Bot kann man z.B. wie folgt auslösen:
+
+
 
 # Wie geht das mit node.js?
 
