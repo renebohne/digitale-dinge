@@ -8,7 +8,7 @@ categories:
 tags: []
 excerpt: Was ist eine REST API und wie kann man sie mit Javascript verwenden?
 thumb_image_alt: Switchbot REST API
-image_alt: lorem-ipsum
+image_alt: Switchbot REST API
 image_position: top
 seo:
   title: Die Switchbot REST API
