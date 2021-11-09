@@ -70,7 +70,100 @@ npm install --save axios
 Aus der main.js des genannten Adapters haben wir etwas Code entnommen und ihn für dieses Tutorial vereinfacht:´
 
 ```
+const axios = require('axios');
 
+var config = require('./config');
+
+devices = {};
+
+
+ function apiCall(url, data) {
+
+    if (!url) throw new Error(`No URL provided, cannot make API call`);
+    if (!data) {
+        return axios(url, {
+            baseURL: 'https://api.switch-bot.com',
+            url: url,
+            timeout: 5000,
+            headers: {'Authorization': config.openToken}
+        })
+            .then(response => response.data)
+            .catch(error => {
+                throw new Error(`Cannot handle API call : ${error}`);
+            });
+
+    } else {
+        return axios.post(url, data, {
+            baseURL: 'https://api.switch-bot.com',
+            url: url,
+            timeout: 5000,
+            headers: {
+                'Content-Type': 'application/json;charset=UTF-8',
+                'Authorization': config.openToken,
+            }
+        })
+            .then(response => response.data)
+            .catch(error => {
+                throw new Error(`Cannot handle API call : ${error}`);
+            });
+    }
+}
+
+//used in loadDevices
+const arrayHandler = async (deviceArray) => {
+    for (const device in deviceArray) {
+        devices[deviceArray[device].deviceId] = deviceArray[device];
+
+        console.log(`GET status for: ${JSON.stringify(devices[deviceArray[device].deviceId].deviceName)}`);
+        await getDeviceStatus(deviceArray[device].deviceId);    
+    }
+};
+
+//gets all devices and theis status
+async function getDevices() {
+    try {
+        const resp = await apiCall(`/v1.0/devices`);
+        console.log(`GET /v1.0/devices response: ${JSON.stringify(resp)}`);
+        if (!resp) {
+            console.log(`Error: no devices received`);
+            return;
+        }
+
+        const deviceList = resp.body.deviceList;
+    
+        console.log(`Found ${deviceList.length} devices via SwitchBot API`);
+
+        try {
+            if (deviceList) {
+                await arrayHandler(deviceList);
+            } else {
+                console.log(`Can not handle device list from SwitchBot API`);
+            }
+        } catch (error) {
+            console.log(error);
+        }
+    } catch (error) {
+        console.log(error);
+    }
+}
+
+//gets device status by deviceId
+async function getDeviceStatus(deviceId) {
+    try {
+
+        const resp = await apiCall(`/v1.0/devices/${deviceId}/status`);
+        const deviceStatus = resp.body;
+        console.log(`STATUS: ${JSON.stringify(resp)}`);
+        if (!deviceStatus || Object.keys(deviceStatus).length === 0) {
+            console.log(`This devicetype has no states: ${devices[deviceId].deviceType}`);
+            return;
+        }
+    } catch (error) {
+        console.log(error);
+    }
+}
+
+getDevices();
 
 ```
 
