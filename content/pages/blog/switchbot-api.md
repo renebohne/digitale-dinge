@@ -6,7 +6,7 @@ categories:
   - content/data/categories/category-ek9kokp5k.json
   - content/data/categories/tutorials.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: 'Was ist eine REST API und wie '
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
