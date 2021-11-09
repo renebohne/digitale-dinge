@@ -30,7 +30,7 @@ Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem versc
 
 Zunächst müssen wir verstehen, was die Switchbot REST API überhaupt ist. Die Dokumentation befindet sich frei zugänglich auf https://github.com/OpenWonderLabs/SwitchBotAPI
 
-Dort steht beschrieben, wie man an das "Open Token" gelangt, mit dem 
+Dort steht beschrieben, wie man an das "Open Token" gelangt, mit dem man Zugriff auf die Daten der Geräte erhält. 
 
 
 # Beispiele mit cURL
