@@ -58,4 +58,4 @@ curl -H "Authorization: MEINGEHEIMESTOKEN" -d '{"command": "turnOn", "parameter"
 
 # Wie geht das mit node.js?
 
-Leider gibt es noch keine Javascript Library für die Switchbot REST API. Als Inspiration kann der ioBroker Adapter dienen:
+Leider gibt es noch keine Javascript Library für die Switchbot REST API. Als Inspiration kann dieser ioBroker Adapter dienen:
