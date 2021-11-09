@@ -45,6 +45,7 @@ Um mehr Details über ein Gerät abzurufen, kann dieser Befehl verwendet werden:
 
 curl -H "Authorization: MEINGEHEIMESTOKEN" https://api.switch-bot.com/v1.0/devices/MEINEDEVICEID/status
 
+MEINEDEVICEID muss dabei durch die DeviceID des Geräts ersetzt werden, welches 
 
 # Wie geht das mit node.js?
 
