@@ -17,14 +17,17 @@ layout: post
 thumb_image: /images/DigitaleDinge_2_Switchbot_API.png
 image: /images/DigitaleDinge_2_Switchbot_API.png
 ---
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/A5F7fOnhNvg?modestbranding=1"
-frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Einleitung
 
-Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-*   Lorem ipsum
-*   dolor sit amet
+# Die Switchbot REST API
+
+
+
+# Beispiele mit cURL
+
+
+
+# Wie geht das mit node.js?
+
