@@ -24,7 +24,7 @@ gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Einleitung
 
-Letzte Woche haben wir uns die 
+Letzte Woche haben wir uns einen Überblick über das Switchbot Ö
 
 
 # Die Switchbot REST API
