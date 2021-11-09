@@ -174,8 +174,6 @@ var config = {};
 config.openToken = 'MEINGEHEIMESTOKEN';
 
 module.exports = config;
-
-
 ```
 
 Natürlich muss in der Datei der Text MEINGEHEIMESTOKEN durch das zuvor bestimmte Open Token ersetzt werden.
