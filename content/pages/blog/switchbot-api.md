@@ -35,7 +35,8 @@ Dort steht beschrieben, wie man an das "Open Token" gelangt, mit dem man Zugriff
 
 # Beispiele mit cURL
 
-
+Um alle 
+curl -H "Authorization: $SBAPI" https://api.switch-bot.com/v1.0/devices/
 
 
 
