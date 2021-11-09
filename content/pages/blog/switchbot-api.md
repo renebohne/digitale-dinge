@@ -6,9 +6,9 @@ categories:
   - content/data/categories/category-ek9kokp5k.json
   - content/data/categories/tutorials.yaml
 tags: []
-excerpt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+excerpt: Was ist eine REST API und wie kann man sie mit Javascript verwenden?
+thumb_image_alt: Switchbot REST API
+image_alt: Switchbot REST API
 image_position: top
 seo:
   title: Die Switchbot REST API
@@ -22,6 +22,7 @@ seo:
 layout: post
 thumb_image: /images/DigitaleDinge_2_Switchbot_API.png
 image: /images/DigitaleDinge_2_Switchbot_API.png
+author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/A5F7fOnhNvg?modestbranding=1"
