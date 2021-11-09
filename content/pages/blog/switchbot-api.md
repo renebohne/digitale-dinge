@@ -28,7 +28,8 @@ Letzte Woche haben wir uns einen Überblick über das Switchbot Ökosystem versc
 
 # Die Switchbot REST API
 
-Zunächst müssen wir verstehen, was die Switchbot REST API überhaupt ist. Die Dokumentation befindet sich frei zugänglich auf 
+Zunächst müssen wir verstehen, was die Switchbot REST API überhaupt ist. Die Dokumentation befindet sich frei zugänglich auf https://github.com/OpenWonderLabs/SwitchBotAPI
+
 
 
 # Beispiele mit cURL
