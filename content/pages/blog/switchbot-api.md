@@ -24,6 +24,7 @@ gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Einleitung
 
+Letzte Woche haben wir uns die 
 
 
 # Die Switchbot REST API
