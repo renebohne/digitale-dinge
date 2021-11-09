@@ -166,7 +166,7 @@ async function getDeviceStatus(deviceId) {
 getDevices();
 ```
 
-Der Code 
+Der Code geht da
 
 
 
