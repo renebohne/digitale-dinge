@@ -6,7 +6,7 @@ categories:
   - content/data/categories/category-ek9kokp5k.json
   - content/data/categories/tutorials.yaml
 tags: []
-excerpt: 'Was ist eine REST API und wie '
+excerpt: Was ist eine REST API und wie kann man sie mit Javascript verwenden?
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
