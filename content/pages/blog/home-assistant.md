@@ -1,6 +1,8 @@
 ---
 title: 'Home Assistant: Erfahrungen'
-subtitle: lorem-ipsum
+subtitle: >-
+  Fabian ist von FHEM auf Home Assistant umgestiegen und teilt seine Erfahrungen
+  mit uns.
 date: '2021-11-16'
 categories: []
 tags: []
