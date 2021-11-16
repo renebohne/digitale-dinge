@@ -13,7 +13,7 @@ excerpt: >-
   angucken. Eine einfache Installation auf einem Raspberry Pi oder in einer
   virtuellen Maschine ist schnell erledigt und reicht sicher aus, um einen
   ersten Eindruck zu gewinnen.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Home Assistant
 image_alt: lorem-ipsum
 image_position: top
 seo:
