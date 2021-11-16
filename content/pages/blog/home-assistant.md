@@ -17,7 +17,7 @@ thumb_image_alt: Home Assistant
 image_alt: Home Assistant
 image_position: top
 seo:
-  title: ''
+  title: 'Home Assistant: Erfahrungen'
   description: ''
   robots: []
   extra: []
