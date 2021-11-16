@@ -22,7 +22,11 @@ seo:
     Home Assistant ist ein sehr modernes System mit einer großen Community. Man
     kann damit fast alles automatisieren und es gibt sogar eine eigene App. 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/Copy of Digitale Dinge 3 Home Assistant.png
+      keyName: property
+      relativeUrl: true
 layout: post
 thumb_image: /images/Copy of Digitale Dinge 3 Home Assistant.png
 image: /images/Copy of Digitale Dinge 3 Home Assistant.png
