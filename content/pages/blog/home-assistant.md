@@ -6,7 +6,13 @@ subtitle: >-
 date: '2021-11-16'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Home Assistant ist ein sehr modernes System mit einer großen Community. Man
+  kann damit fast alles automatisieren und es gibt sogar eine eigene App. Wer
+  neu im Thema Smart Home ist, sollte sich Home Assistant und iobroker unbedingt
+  angucken. Eine einfache Installation auf einem Raspberry Pi oder in einer
+  virtuellen Maschine ist schnell erledigt und reicht sicher aus, um einen
+  ersten Eindruck zu gewinnen.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
