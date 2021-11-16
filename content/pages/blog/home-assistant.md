@@ -23,6 +23,7 @@ seo:
   extra: []
 layout: post
 thumb_image: /images/Copy of Digitale Dinge 3 Home Assistant.png
+image: /images/Copy of Digitale Dinge 3 Home Assistant.png
 ---
 Wer sein zuhause zu einem Smart Home machen möchte, braucht neben den vielen Geräten auch Software, welche die Intelligenz bereitstellt. In der Vergangenheit haben wir (bei der Online Lab Night) uns FHEM angeguckt und intensiv mit iobroker beschäftigt. Eine weitere beliebte Software ist Home Assistant (HA). HA kann hier kostenlos heruntergeladen werden: <https://www.home-assistant.io/>
 
