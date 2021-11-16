@@ -14,7 +14,7 @@ excerpt: >-
   virtuellen Maschine ist schnell erledigt und reicht sicher aus, um einen
   ersten Eindruck zu gewinnen.
 thumb_image_alt: Home Assistant
-image_alt: lorem-ipsum
+image_alt: Home Assistant
 image_position: top
 seo:
   title: ''
