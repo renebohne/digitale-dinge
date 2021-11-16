@@ -18,7 +18,9 @@ image_alt: Home Assistant
 image_position: top
 seo:
   title: 'Home Assistant: Erfahrungen'
-  description: ''
+  description: >-
+    Home Assistant ist ein sehr modernes System mit einer großen Community. Man
+    kann damit fast alles automatisieren und es gibt sogar eine eigene App. 
   robots: []
   extra: []
 layout: post
