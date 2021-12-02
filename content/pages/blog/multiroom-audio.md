@@ -1,5 +1,5 @@
 ---
-title: Switchbot API
+title: Multiroom Audio
 subtitle: Wir nutzen die REST API mit cURL und Javascript
 date: '2021-11-09'
 categories:
