@@ -1,6 +1,6 @@
 ---
 title: Multiroom Audio
-subtitle: Wir nutzen die REST API mit cURL und Javascript
+subtitle: Synchroner Ton in mehreren Räumen
 date: '2021-11-09'
 categories:
   - content/data/categories/category-ek9kokp5k.json
