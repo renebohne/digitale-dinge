@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: Synchroner Ton in mehreren Räumen dank Snapcast
 thumb_image_alt: Snapcast
-image_alt: Hydraplay
+image_alt: Snapcast
 image_position: top
 seo:
   title: Multiroom Audio mit HydraPlay
