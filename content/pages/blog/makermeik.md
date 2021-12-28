@@ -11,7 +11,7 @@ image_alt: Snapcast
 image_position: top
 seo:
   title: Maker Projekte von MakerMeik
-  description: Synchroner Ton in mehreren Räumen
+  description: Projektideen für ESP8266,ESP32, Arduino und 3D-Drucker
   robots: []
   extra:
     - name: 'og:image'
