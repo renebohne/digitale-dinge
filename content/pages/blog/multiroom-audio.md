@@ -21,7 +21,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: /images/DigitaleDinge_2_Switchbot_API.png
-image: /images/DigitaleDinge_2_Switchbot_API.png
+image: /images/DigitaleDinge4Hydraplay.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
