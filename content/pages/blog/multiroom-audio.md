@@ -6,7 +6,7 @@ categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
 excerpt: Synchroner Ton in mehreren Räumen dank HydraPlay
-thumb_image_alt: Switchbot REST API
+thumb_image_alt: Hydraplay
 image_alt: Switchbot REST API
 image_position: top
 seo:
