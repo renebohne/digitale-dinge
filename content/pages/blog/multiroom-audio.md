@@ -11,7 +11,7 @@ image_alt: Hydraplay
 image_position: top
 seo:
   title: Multiroom Audio mit HydraPlay
-  description: Wie nutzt man die Switchbot REST API mit cURL und node.js Javascript?
+  description: Synchroner Ton in mehreren Räumen
   robots: []
   extra:
     - name: 'og:image'
