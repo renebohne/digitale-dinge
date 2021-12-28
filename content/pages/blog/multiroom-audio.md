@@ -1,7 +1,7 @@
 ---
 title: Multiroom Audio mit HydraPlay
 subtitle: Synchroner Ton in mehreren Räumen
-date: '2021-11-02'
+date: '2021-11-23'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
