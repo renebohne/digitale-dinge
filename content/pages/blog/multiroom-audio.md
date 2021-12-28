@@ -1,5 +1,5 @@
 ---
-title: Multiroom Audio
+title: Multiroom Audio mit HydraPlay
 subtitle: Synchroner Ton in mehreren Räumen
 date: '2021-11-09'
 categories:
