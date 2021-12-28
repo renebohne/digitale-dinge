@@ -1,5 +1,5 @@
 ---
-title: Snapcast
+title: Maker Projekte von MakerMeik
 subtitle: Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker
 date: '2021-11-30'
 categories:
