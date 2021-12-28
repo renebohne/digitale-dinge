@@ -5,7 +5,7 @@ date: '2021-11-09'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: Was ist eine REST API und wie kann man sie mit Javascript verwenden?
+excerpt: Synchroner Ton in mehreren Räumen dank HydraPlay
 thumb_image_alt: Switchbot REST API
 image_alt: Switchbot REST API
 image_position: top
