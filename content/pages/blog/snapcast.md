@@ -5,7 +5,7 @@ date: '2021-11-30'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: Synchroner Ton in mehreren Räumen dank HydraPlay
+excerpt: Synchroner Ton in mehreren Räumen dank Snapcast
 thumb_image_alt: Hydraplay
 image_alt: Hydraplay
 image_position: top
