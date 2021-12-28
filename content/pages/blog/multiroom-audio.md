@@ -4,7 +4,6 @@ subtitle: Synchroner Ton in mehreren Räumen
 date: '2021-11-09'
 categories:
   - content/data/categories/category-ek9kokp5k.json
-  - content/data/categories/tutorials.yaml
 tags: []
 excerpt: Was ist eine REST API und wie kann man sie mit Javascript verwenden?
 thumb_image_alt: Switchbot REST API
