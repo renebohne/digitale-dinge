@@ -10,7 +10,7 @@ thumb_image_alt: Snapcast
 image_alt: Snapcast
 image_position: top
 seo:
-  title: Multiroom Audio mit Snapcast
+  title: Maker Projekte von MakerMeik
   description: Synchroner Ton in mehreren Räumen
   robots: []
   extra:
