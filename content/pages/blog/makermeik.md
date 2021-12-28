@@ -5,7 +5,7 @@ date: '2021-11-30'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: Synchroner Ton in mehreren Räumen dank Snapcast
+excerpt: Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker
 thumb_image_alt: Snapcast
 image_alt: Snapcast
 image_position: top
