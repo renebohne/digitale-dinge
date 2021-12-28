@@ -23,7 +23,7 @@ thumb_image: /images/DigitaleDinge4Hydraplay.png
 image: /images/DigitaleDinge5Snapcast.png
 author: content/data/team/rene-bohne.yaml
 ---
-\<iframe width="560" height="315"
+<iframe width="560" height="315"
 src="https://www.youtube.com/embed/TuAsXwCqSCc?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
