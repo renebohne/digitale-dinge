@@ -15,7 +15,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/DigitaleDinge_2_Switchbot_API.png
+      value: /images/DigitaleDinge4Hydraplay.png
       keyName: property
       relativeUrl: true
 layout: post
