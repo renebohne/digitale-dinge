@@ -1,6 +1,6 @@
 ---
 title: Weihnachtsdeko mit WLED & Co.
-subtitle: ''
+subtitle: 'WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt'
 date: '2021-12-07'
 categories:
   - content/data/categories/category-ek9kokp5k.json
