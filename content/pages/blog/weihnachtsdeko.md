@@ -11,7 +11,7 @@ image_alt: 3D
 image_position: top
 seo:
   title: MWeihnachtsdeko mit WLED & Co.
-  description: WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt
+  description: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
   robots: []
   extra:
     - name: 'og:image'
