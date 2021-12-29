@@ -5,13 +5,13 @@ date: '2021-12-21'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
+excerpt: Welche CAD Software eignet sich für Einsteiger?
 thumb_image_alt: 3D
 image_alt: 3D
 image_position: top
 seo:
   title: CAD Programme - eine Übersicht
-  description: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
+  description: Welche CAD Software eignet sich für Einsteiger?
   robots: []
   extra:
     - name: 'og:image'
