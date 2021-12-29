@@ -15,7 +15,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/DigitaleDinge6MakerMeik.png
+      value: /images/DigitaleDinge7WLED.png
       keyName: property
       relativeUrl: true
 layout: post
