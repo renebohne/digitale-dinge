@@ -1,6 +1,6 @@
 ---
 title: Weihnachtsdeko mit WLED & Co.
-subtitle: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
+subtitle: ''
 date: '2021-12-07'
 categories:
   - content/data/categories/category-ek9kokp5k.json
