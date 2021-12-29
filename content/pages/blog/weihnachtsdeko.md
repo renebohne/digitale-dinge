@@ -24,7 +24,7 @@ image: /images/DigitaleDinge8Weihnachten.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/lK-j-FpK0dM?modestbranding=1"
+src="https://www.youtube.com/embed/xp1CpqhnOJU?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
