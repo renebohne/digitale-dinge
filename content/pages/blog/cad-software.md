@@ -1,6 +1,6 @@
 ---
 title: CAD Programme: eine Übersicht
-subtitle: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
+subtitle: Welche CAD Software eignet sich für Einsteiger?
 date: '2021-12-21'
 categories:
   - content/data/categories/category-ek9kokp5k.json
