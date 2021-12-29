@@ -1,5 +1,5 @@
 ---
-title: Maker Projekte von MakerMeik
+title: Weihnachtsdeko mit WLED & Co.
 subtitle: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
 date: '2021-12-07'
 categories:
