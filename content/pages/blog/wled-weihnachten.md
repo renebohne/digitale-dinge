@@ -6,7 +6,7 @@ categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
 excerpt: 'WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt'
-thumb_image_alt: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
+thumb_image_alt: 'WLED'
 image_alt: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
 image_position: top
 seo:
