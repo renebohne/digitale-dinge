@@ -6,7 +6,7 @@ categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
 excerpt: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
-thumb_image_alt: WLED
+thumb_image_alt: 3D
 image_alt: WLED
 image_position: top
 seo:
