@@ -6,7 +6,7 @@ categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
 excerpt: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
-thumb_image_alt: Snapcast
+thumb_image_alt: DigitaleDinge6MakerMeik
 image_alt: Snapcast
 image_position: top
 seo:
