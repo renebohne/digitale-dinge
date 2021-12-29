@@ -1,6 +1,6 @@
 ---
 title: Weihnachtsdeko aus dem 3D-Drucker
-subtitle: WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt
+subtitle: Wie kann man 
 date: '2021-12-21'
 categories:
   - content/data/categories/category-ek9kokp5k.json
