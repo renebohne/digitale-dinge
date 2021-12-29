@@ -5,7 +5,7 @@ date: '2021-12-21'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt
+excerpt: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
 thumb_image_alt: WLED
 image_alt: WLED
 image_position: top
