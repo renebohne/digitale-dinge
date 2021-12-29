@@ -1,7 +1,7 @@
 ---
 title: Weihnachtsdeko aus dem 3D-Drucker
 subtitle: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
-date: '2021-12-14'
+date: '2021-12-21'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
