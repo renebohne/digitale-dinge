@@ -1,5 +1,5 @@
 ---
-title: CAD Programme: eine Übersicht
+title: Weihnachtsdeko aus dem 3D-Drucker
 subtitle: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
 date: '2021-12-21'
 categories:
@@ -20,11 +20,11 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: /images/DigitaleDinge7WLED.png
-image: /images/DigitaleDinge8Weihnachten.png
+image: /images/DigitaleDinge7WLED.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/xp1CpqhnOJU?modestbranding=1"
+src="https://www.youtube.com/embed/lK-j-FpK0dM?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
