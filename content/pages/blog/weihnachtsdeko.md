@@ -15,11 +15,11 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/DigitaleDinge7WLED.png
+      value: /images/DigitaleDinge8Weihnachten.png
       keyName: property
       relativeUrl: true
 layout: post
-thumb_image: /images/DigitaleDinge7WLED.png
+thumb_image: /images/DigitaleDinge8Weihnachten.png
 image: /images/DigitaleDinge8Weihnachten.png
 author: content/data/team/rene-bohne.yaml
 ---
