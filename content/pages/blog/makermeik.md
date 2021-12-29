@@ -15,11 +15,11 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/DigitaleDinge5Snapcast.png
+      value: /images/DigitaleDinge6MakerMeik.png
       keyName: property
       relativeUrl: true
 layout: post
-thumb_image: /images/DigitaleDinge5Snapcast.png
+thumb_image: /images/DigitaleDinge6MakerMeik.png
 image: /images/DigitaleDinge6MakerMeik.png
 author: content/data/team/rene-bohne.yaml
 ---
