@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
 thumb_image_alt: Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker
-image_alt: Snapcast
+image_alt: Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker
 image_position: top
 seo:
   title: Maker Projekte von MakerMeik
