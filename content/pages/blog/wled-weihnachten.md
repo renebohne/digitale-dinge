@@ -10,7 +10,7 @@ thumb_image_alt: 'WLED'
 image_alt: 'WLED'
 image_position: top
 seo:
-  title: Maker Projekte von MakerMeik
+  title: MWeihnachtsdeko mit WLED & Co.
   description: 'WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt'
   robots: []
   extra:
