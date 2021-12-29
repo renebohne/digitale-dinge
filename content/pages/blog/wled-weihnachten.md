@@ -19,7 +19,7 @@ seo:
       keyName: property
       relativeUrl: true
 layout: post
-thumb_image: /images/DigitaleDinge6MakerMeik.png
+thumb_image: /images/DigitaleDinge7WLED.png
 image: /images/DigitaleDinge7WLED.png
 author: content/data/team/rene-bohne.yaml
 ---
