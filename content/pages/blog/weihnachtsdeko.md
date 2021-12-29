@@ -10,7 +10,7 @@ thumb_image_alt: 3D
 image_alt: 3D
 image_position: top
 seo:
-  title: MWeihnachtsdeko mit WLED & Co.
+  title: Weihnachtsdeko aus dem 3D-Drucker
   description: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
   robots: []
   extra:
