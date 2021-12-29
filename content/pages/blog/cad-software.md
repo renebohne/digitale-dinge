@@ -10,7 +10,7 @@ thumb_image_alt: 3D
 image_alt: 3D
 image_position: top
 seo:
-  title: Weihnachtsdeko aus dem 3D-Drucker
+  title: CAD Programme - eine Übersicht
   description: Wie kann man mit einem 3D-Drucker Weihnachtsdekoration herstellen?
   robots: []
   extra:
