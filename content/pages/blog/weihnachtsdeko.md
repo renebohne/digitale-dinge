@@ -20,7 +20,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: /images/DigitaleDinge7WLED.png
-image: /images/DigitaleDinge7WLED.png
+image: /images/DigitaleDinge8Weihnachten.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
