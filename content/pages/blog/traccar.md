@@ -31,4 +31,7 @@ src="https://www.youtube.com/embed/xp1CpqhnOJU?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
-Der Textbeitrag folgt bald.
+
+
+traccar ist eine open source GPS-Tracking Lösung. Wir zeigen, wie man traccar lokal installiert, für Geräte im Internet zugänglich macht, Daten an traccar sendet und wie man es in iobroker integriert.
+
