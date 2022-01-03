@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: Welche CAD Software eignet sich für Einsteiger?
 thumb_image_alt: 3D
-image_alt: 3D
+image_alt: traccar
 image_position: top
 seo:
   title: CAD Programme - eine Übersicht
