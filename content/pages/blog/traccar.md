@@ -1,7 +1,7 @@
 ---
 title: CAD Programme - eine Übersicht
 subtitle: Welche CAD Software eignet sich für Einsteiger?
-date: '0002-01-04'
+date: '2022-01-04'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
