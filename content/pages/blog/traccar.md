@@ -19,7 +19,7 @@ seo:
       keyName: property
       relativeUrl: true
 layout: post
-thumb_image: /images/DigitaleDinge9CADProgramme.png
+thumb_image: /images/DigitaleDinge10traccar.png
 image: /images/DigitaleDinge10traccar.png
 author: content/data/team/rene-bohne.yaml
 ---
