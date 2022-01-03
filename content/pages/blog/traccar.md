@@ -1,6 +1,6 @@
 ---
 title: GPS-Tracking mit traccar
-subtitle: Welche CAD Software eignet sich für Einsteiger?
+subtitle: Geräte kostenlos und sicher tracken mit Open-Source Software
 date: '2022-01-04'
 categories:
   - content/data/categories/category-ek9kokp5k.json
