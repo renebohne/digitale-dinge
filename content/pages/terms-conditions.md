@@ -23,7 +23,7 @@ layout: page
 ---
 ## Angaben gemäß §5 TMG
 
-René Bohne
+René Gern
 
 Hottorferstr. 7
 
@@ -33,11 +33,10 @@ info@digitale-dinge.de
 
 ## Verantwortlich für den Inhalt nach §55 Abs. 2 RStV
 
-René Bohne
+René Gern
 
 Hottorferstr. 7
 
 52445 Titz
 
 info@digitale-dinge.de
-
