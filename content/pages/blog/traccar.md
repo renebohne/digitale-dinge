@@ -5,7 +5,10 @@ date: '2022-01-04'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: Welche CAD Software eignet sich für Einsteiger?
+excerpt: >-
+  traccar ist eine open source GPS-Tracking Lösung. Wir zeigen, wie man traccar
+  lokal installiert, für Geräte im Internet zugänglich macht, Daten an traccar
+  sendet und wie man es in iobroker integriert.
 thumb_image_alt: traccar
 image_alt: traccar
 image_position: top
