@@ -18,7 +18,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/DigitaleDinge9CADProgramme.png
+      value: /images/DigitaleDinge10traccar.png
       keyName: property
       relativeUrl: true
 layout: post
