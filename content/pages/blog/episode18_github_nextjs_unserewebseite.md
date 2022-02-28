@@ -5,7 +5,7 @@ date: '2022-03-01'
 categories:
   - content/data/categories/category-ek9kokp5k.json
 tags: []
-excerpt: WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt
+excerpt: Wie kannst Du einen Beitrag erstellen?
 thumb_image_alt: github und Next.js
 image_alt: github und Next.js
 image_position: top
