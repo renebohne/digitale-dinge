@@ -1,3 +1,10 @@
+Dieses Repository wurde mit Jamstack erzeugt und wird nun manuell gepflegt.
+Die gerenderte Webseite findet ihr unter http://digitale-dinge.de
+
+Wie man etwas zu unserer Webseite beisteuern kann, wird in diesem Video erklärt:
+https://www.youtube.com/watch?v=acm76Q-lPtk
+
+
 # ✨ DIY Nextjs Theme ✨
 
 This is Stackbit's "DIY" theme built with [Next.js](https://nextjs.org/) and
