@@ -34,5 +34,5 @@ Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über 
 
 # Links zur Sendung
 
-* [github Repository unserer Webseite](https://github.com/renebohne/digitale-dinge/
+* [github Repository unserer Webseite](https://github.com/renebohne/digitale-dinge/)
 * [Visual Studio Code](https://code.visualstudio.com/)
