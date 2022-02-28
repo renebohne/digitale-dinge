@@ -13,7 +13,7 @@ export default function Link({ children, href, ...other }) {
     }
 
     return (
-        <a href={href} target='blank' {...other}>
+        <a href={href} target='_blank' {...other}>
             {children}
         </a>
     );
