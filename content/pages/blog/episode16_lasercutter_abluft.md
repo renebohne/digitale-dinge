@@ -1,7 +1,7 @@
 ---
 title: Lasercutter Gehäuse und Filter
 subtitle: Gibt es günstige Gehäuse für Lasercutter? Wie baut man Filter und Abluft?
-date: '2022-03-01'
+date: '2022-02-15'
 categories:
   - content/data/categories/live.yaml
 tags: []
