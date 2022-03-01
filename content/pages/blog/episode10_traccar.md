@@ -38,6 +38,7 @@ traccar ist eine open source GPS-Tracking Lösung. Wir zeigen, wie man traccar l
 
 LXC Container kreieren Ubuntu 20.4 Template, 1 Core, 1024 MB RAM, 8GB HDD, DHCP
 
+```
 apt update && apt upgrade -y
 apt install unzip
 wget https://www.traccar.org/download/traccar-linux-64-latest.zip
@@ -47,44 +48,48 @@ chmod +x traccar.run
 service traccar start
 ip a
 http://IP_Adresse:8082/
+```
 
-Damit ist Traccar Server lauffähig
+Damit ist Traccar Server lauffähig.
 
-# 4 Dinge die man wissen sollte auf der Konsole machen zu können:
+# 4 Dinge die man wissen sollte auf der Konsole machen zu können
 
 1. Behebung durch Einrichtung Accurate Filter:
+
+```
 nano /opt/traccar/conf/traccar.xml
 (unter     <entry key='database.password'></entry> einfügen)
 
 <entry key='filter.enable'>true</entry>
 <entry key='filter.maxSpeed'>25000</entry>
 <entry key='filter.accuracy'>500</entry>
+```
 
 2. Traccar V4.15 hat bereits die Funktion Reverse Geocoding in Kooperation mit 
 locationIQ integriert mit 1000 Abfragen/Tag frei. Bei eigenem (kostenlosem) Account 5000/Tag
-https://locationiq.com/register Token holen
-Hierzu den Access Token austauschen in
+https://locationiq.com/register Token holen. Hierzu den Access Token austauschen in:
 
+```
 sudo nano /opt/traccar/conf/default.xml
 
     <entry key='geocoder.key'>pk.b19bxxxxxxxxxxxxxxxxxxxxxxxxx</entry>
+```
 
-gegen eigenen Token tauschen
+gegen eigenen Token tauschen.
 
 3. Server Neustart (nach jeder Konfig Änderung nötig)
+```
 systemctl restart traccar.service
+```
 
 4. Log beobachten
+```
 tail -f /opt/traccar/logs/tracker-server.log
+```
 
-# Erste Schritte auf der Weboberfläche:
+# Erste Schritte auf der Weboberfläche
 
-Umstellung kn auf kmh
-Zahnrad (oben rechts)
-Server, Eigenschaften (unten links)
-Name (auf Pfeil zum Auswählen)
-Geschwindigkeitseinheit
-Wert (auswählen) km/h
+Umstellung kn auf kmh: Zahnrad (oben rechts) Server, Eigenschaften (unten links) Name (auf Pfeil zum Auswählen) Geschwindigkeitseinheit Wert (auswählen) km/h
 
 Auf das linke Zahnrad klicken und Device hinzufügen
 (Beispiel Handy APP) 
@@ -97,7 +102,7 @@ Empfohlene Werte zeit 3600 sec., Entfernung 100m, Winkel 30 Grad
 Bei Ios sollte eingestellt sein, dass immer gesendet wird (Einstellungen, Datenschutz, Ortungsdienste, Traccar Immer)
 Bei Android Akku Einstellungen von automatisch auf manuell, dann Traccar Client immer erlauben
 
-# Router Einstellungen:
+# Router Einstellungen
 
 Am Router muss (für Mobiltelefone) der Port 5055 zum Traccar Server geöffnet und weitergeleitet werden.
 
@@ -109,16 +114,19 @@ Der nächste Schritt wäre die einrichtung von GeoFences und deren Aktivierung i
 
 Nützliche API Aufrufe:
 
+```
 /api/geofences?deviceId=1
 /api/devices/1?all=true
 /api/devices/2?all=true
 /api/positions?deviceId=1
 /api/positions?deviceId=2
+```
 
 https://www.traccar.org/api-reference
 
 
-Verbindung von Traccar zu Iobroker:
+# Verbindung von Traccar zu Iobroker
+
 Es gibt einen Iobroker Traccar-Adapter, der die elementaren Daten in Iobroker holt.
 
 Ich empfehle die Nutzung dieser Blockly-Script-Lösung, da der Funktionsumfang erweitert wird.
@@ -142,8 +150,9 @@ Erweiterte Infos für das (Sende-) Device finden sich unter
 
 Die restlichen DP sollten selbsterklärend sein.
 
-Hier der Link zum Import des Blockly-Scripts:
+# Links
 
+Hier der Link zum Import des Blockly-Scripts:
 
 https://paste.hafenmeister.de/?ee76cff0ccc5b08c#DpEgHRh7MXe73kvxH1bcUDFTLqJEbzSDHsYKEkXuLfpF
 
