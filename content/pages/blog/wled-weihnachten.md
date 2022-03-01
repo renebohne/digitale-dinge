@@ -3,7 +3,7 @@ title: Weihnachtsbeleuchtung mit WLED & Co.
 subtitle: WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt
 date: '2021-12-14'
 categories:
-  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/live.yaml
 tags: []
 excerpt: WLED Firmware für ESP8266 und ESP32 ganz einfach erklärt
 thumb_image_alt: WLED

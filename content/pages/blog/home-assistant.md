@@ -5,7 +5,7 @@ subtitle: >-
   mit uns.
 date: '2021-11-16'
 categories:
-  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/live.yaml
 tags: []
 excerpt: >-
   Home Assistant ist ein sehr modernes System mit einer großen Community. Man

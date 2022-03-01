@@ -5,7 +5,7 @@ date: '2021-09-28'
 author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
-  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/live.yaml
 excerpt: >-
   Die Online Lab Night wurde abgelöst durch ein neues Format. Warum das
   notwendig wurde, erfahrt ihr in diesem Beitrag.
