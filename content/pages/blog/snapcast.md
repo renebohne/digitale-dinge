@@ -3,7 +3,7 @@ title: Snapcast
 subtitle: Synchroner Ton in mehreren Räumen
 date: '2021-11-30'
 categories:
-  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/live.yaml
 tags: []
 excerpt: Synchroner Ton in mehreren Räumen dank Snapcast
 thumb_image_alt: Snapcast

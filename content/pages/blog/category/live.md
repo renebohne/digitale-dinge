@@ -2,7 +2,7 @@
 title: Live
 sections:
   - type: hero_section
-    title: Live Sendung
+    title: Live-Sendung
     subtitle: Dienstags um 21 Uhr
     align: center
     padding_top: medium
@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Live Sendung
+  title: Live-Sendung
   description: 'Dies ist das Archiv unserer Live Sendung. '
   extra:
     - name: 'og:type'
@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Live Sendung
+      value: Live-Sendung
     - name: 'twitter:description'
       value: 'Dies ist das Archiv unserer Live Sendung. '
     - name: 'twitter:image'
