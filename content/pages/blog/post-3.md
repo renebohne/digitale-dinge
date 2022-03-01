@@ -8,7 +8,7 @@ date: '2021-11-01'
 author: content/data/team/rene-bohne.yaml
 categories:
   - content/data/categories/general.yaml
-  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/live.yaml
 tags: []
 excerpt: >-
   In der ersten Livesendung wollen wir uns Switchbot angucken. Zu jeder Sendung

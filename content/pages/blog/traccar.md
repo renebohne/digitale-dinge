@@ -3,7 +3,7 @@ title: GPS-Tracking mit traccar
 subtitle: Geräte kostenlos und sicher tracken mit Open-Source Software
 date: '2022-01-04'
 categories:
-  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/live.yaml
 tags: []
 excerpt: >-
   traccar ist eine open source GPS-Tracking Lösung. Wir zeigen, wie man traccar

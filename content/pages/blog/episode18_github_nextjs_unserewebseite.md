@@ -3,7 +3,7 @@ title: github und Next.js für unsere Webseite
 subtitle: Wie kannst Du einen Beitrag erstellen?
 date: '2022-03-01'
 categories:
-  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/live.yaml
 tags: []
 excerpt: Wie kannst Du einen Beitrag erstellen?
 thumb_image_alt: github und Next.js

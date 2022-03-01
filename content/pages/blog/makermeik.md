@@ -3,7 +3,7 @@ title: Maker Projekte von MakerMeik
 subtitle: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
 date: '2021-12-07'
 categories:
-  - content/data/categories/category-ek9kokp5k.json
+  - content/data/categories/live.yaml
 tags: []
 excerpt: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
 thumb_image_alt: 'Projektideen für ESP8266, ESP32, Arduino und 3D-Drucker'
