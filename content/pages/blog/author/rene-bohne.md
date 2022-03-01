@@ -1,8 +1,8 @@
 ---
-title: René Bohne
+title: René Gern
 sections:
   - type: hero_section
-    title: René Bohne
+    title: René Gern
     subtitle: Maker
     align: center
     padding_top: medium
@@ -22,14 +22,14 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Beiträge von René Bohne
+  title: Beiträge von René Gern
   description: Dies ist Renés Archiv
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Beiträge von René Bohne
+      value: Beiträge von René Gern
       keyName: property
     - name: 'og:description'
       value: Dies ist Renés Archiv
@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Beiträge von René Bohne
+      value: Beiträge von René Gern
     - name: 'twitter:description'
       value: Dies ist Renés Archiv
     - name: 'twitter:image'
