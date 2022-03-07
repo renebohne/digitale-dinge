@@ -19,8 +19,9 @@ export default class Post extends React.Component {
         const imageAlt = _.get(page, 'image_alt', '');
         const imagePosition = _.get(page, 'image_position', 'top');
         const date = _.get(page, 'date');
+        moment.locale('de');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
-        const formattedDate = moment(date).strftime('%B %d, %Y');
+        const formattedDate = moment(date).strftime('%d.%B %Y');
         const author = _.get(page, 'author');
         const categories = _.get(page, 'categories', []);
         const tags = _.get(page, 'tags', []);

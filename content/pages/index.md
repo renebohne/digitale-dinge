@@ -54,7 +54,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /about
+            url: https://discord.gg/FRPbrSP
             style: link
             has_icon: true
             icon: arrow-right
@@ -75,7 +75,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /about
+            url: /blog/category/live/
             style: link
             has_icon: true
             icon: arrow-right
@@ -96,7 +96,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /about
+            url: /blog/category/tutorials/
             style: link
             has_icon: true
             icon: arrow-right

@@ -67,8 +67,9 @@ export default class BlogFeedSection extends React.Component {
         const image = _.get(post, 'thumb_image');
         const imageAlt = _.get(post, 'thumb_image_alt', '');
         const date = _.get(post, 'date');
+        moment.locale('de');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
-        const formattedDate = moment(date).strftime('%B %d, %Y');
+        const formattedDate = moment(date).strftime('%d.%B %Y');
         const author = _.get(post, 'author');
         const categories = _.get(post, 'categories', []);
         const excerpt = _.get(post, 'excerpt');
