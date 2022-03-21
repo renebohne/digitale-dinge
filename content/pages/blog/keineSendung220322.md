@@ -23,10 +23,6 @@ thumb_image: /images/KeineSendung220322.png
 image: /images/KeineSendung220322.png
 author: content/data/team/rene-bohne.yaml
 ---
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/9h_SBTC3HNI?modestbranding=1"
-frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
 Eigentlich hätten wir diese Woche Python und Micropython auf dem Programm gehabt. Zum Glück können wir das Thema noch ein wenig aufschieben, da die Sendung diese Woche wegen Krankheit ausfallen muss!
 Wer an dem AI Workshop am 3. April teilnehmen möchte, meldet sich bitte in Discord: https://discord.digitale-dinge.de/
