@@ -52,7 +52,7 @@ sections:
             new_window: false
             no_follow: false
           - label: Discord
-            url: 'https://discord.digitale-dinge.de'
+            url: 'http://discord.digitale-dinge.de'
             style: link
             has_icon: false
             icon: arrow-left
@@ -65,7 +65,7 @@ sections:
       Wir freuen uns, Dich kennenzulernen!
     actions:
       - label: Discord
-        url: 'https://discord.gg/FRPbrSP'
+        url: 'http://discord.digitale-dinge.de'
         style: primary
     align: center
     padding_top: medium

@@ -30,4 +30,4 @@ gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
 Obwohl es mittlerweile gute Open Source Alternativen gibt, verwenden einige Hersteller und Maker noch immer Eagle. Wir schauen uns die Grundlagen an und diskutieren, ob das noch zeitgemäß ist!
 
-Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei https://discord.digitale-dinge.de/
+Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei http://discord.digitale-dinge.de/

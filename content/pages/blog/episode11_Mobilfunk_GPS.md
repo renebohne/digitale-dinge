@@ -30,4 +30,4 @@ gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
 Diese Woche wird gehackt! Ich nehme ein TTGO T-Call Board, das neben einem ESP32 auch ein SIM800 Mobilfunkmodem hat, und verbinde es mit einem GPS-Modul aus einer sensebox. Auf dem Modul sitzt ein u-blox CAM-M8Q und den werden wir via I2C auslesen, mit TinyGPS parsen und die Daten dann an tingg.io senden. Nächste Woche machen wir das gleiche dann hoffentlich mit LoRaWAN.
 
-Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei https://discord.digitale-dinge.de/
+Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei http://discord.digitale-dinge.de/

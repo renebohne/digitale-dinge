@@ -30,4 +30,4 @@ gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
 Bisher war vor allem die open-source Firmware grbl die erste Wahl, wenn es um CNC Maschinen oder Lasercutter geht, die mit einem Arduino gesteuert werden sollen. FluidNC bringt diese Technologie auf den ESP32. Wir schauen uns an, was man für die Installation benötigt und welche Vorteile es tatsächlich gibt!
 
-Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei https://discord.digitale-dinge.de/
+Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei http://discord.digitale-dinge.de/

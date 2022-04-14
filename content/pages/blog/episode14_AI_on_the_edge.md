@@ -30,4 +30,4 @@ gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
 Wer noch einen alten, analogen Wasserzähler oder Stromzähler hat, kann diesen mit einem günstigen Mikrocontroller und einer Kamera auslesen und die Bilder mit neuronalen Netzen auswerten. Wir erklären, wie das mit Tensorflow auf einem ESP32 geht und wie man den Zählerstand in iobroker oder HomeAssistant integriert.
 
-Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei https://discord.digitale-dinge.de/
+Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei http://discord.digitale-dinge.de/

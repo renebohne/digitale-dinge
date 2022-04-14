@@ -30,4 +30,4 @@ gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
 Gibt es günstige Möglichkeiten, ein Gehäuse und eine Filteranlage für einen Lasercutter oder eine CNC Maschine selbst herzustellen? Wir diskutieren ein paar Ideen und erstellen erste 3D-Modelle.
 
-Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei https://discord.digitale-dinge.de/
+Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei http://discord.digitale-dinge.de/
