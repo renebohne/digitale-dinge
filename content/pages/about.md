@@ -44,7 +44,7 @@ sections:
         media_width: fifty
         actions:
           - label: Blogpost
-            url: /blog/post-1
+            url: /blog/es_war_einmal_die_online_lab_night
             style: link
             has_icon: false
             icon: arrow-left
@@ -52,7 +52,7 @@ sections:
             new_window: false
             no_follow: false
           - label: Discord
-            url: 'https://discord.gg/FRPbrSP'
+            url: 'https://discord.digitale-dinge.de'
             style: link
             has_icon: false
             icon: arrow-left
