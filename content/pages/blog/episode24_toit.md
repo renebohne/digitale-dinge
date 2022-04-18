@@ -149,6 +149,95 @@ main:
 Mehr über Blöcke erfahrt ihr hier: https://docs.toit.io/language/blocks
 
 
+## GPIO
+
+Das Paket gpio ist immer installiert, muss jedoch in einem Programm importiert werden, damit es genutzt werden kann.
+
+### digitale Ausgabe: Blink
+
+Dieses Programm lässt eine LED an Port 22 zehn mal blinken:
+```toit
+import gpio
+
+pin := gpio.Pin 22
+
+blink:
+  pin.set 1
+  sleep --ms=1000
+  pin.set 0
+  sleep --ms=1000
+
+main:
+  pin.config --output 
+  10.repeat:
+    blink
+  
+  //Pin für andere Anwendungen freigeben
+  pin.close
+```
+
+### digitale Eingabe: Button
+
+Wir fügen einen Button an Pin 34 hinzu und aktivieren den Pull-Up Widerstand des Pins:
+```toit
+import gpio
+
+led := gpio.Pin 22 --output
+button := gpio.Pin 34 --input --pull_up
+
+blink:
+  led.set 1
+  sleep --ms=100
+  led.set 0
+  sleep --ms=100
+
+main:
+  while true:
+    button.wait_for 0
+    3.repeat:
+      blink
+  led.close
+  button.close
+```
+
+### ADC
+
+In toit können auch die analogen Eingänge des ESP32 abgefragt werden. Allerdings unterstützt toit nur den ADC1, also nur Pin32-39. ADC2 wird nicht unterstützt! Die get Methode gibt einen Float Wert zurück, der die Spannung in Volt repräsentiert.
+Dieses einfache Beispiel liest den Wert von Pin 39 aus und gibt ihn aus:
+
+```toit
+import gpio
+import gpio.adc show Adc
+
+main:
+  adc := Adc (gpio.Pin 39)
+  print adc.get
+  adc.close
+```
+
+### Pulsweitenmodulation - PWM
+
+Um quasi analoge Spannungen an einem GPIO Pin auszugeben, nutzt der Arduino die Funktion analogWrite(). Unter der Haube nutzt der klassische Arduino dafür PWM. In toit können wir PWM direkt nutzen. Dieses Beispiel faded eine LED an Pin 22:
+
+```toit
+import gpio
+import gpio.pwm
+
+main:
+  led := gpio.Pin 22
+  generator := pwm.Pwm --frequency=400
+  channel := generator.start led
+  duty_percent := 0
+  step := 1
+  while true:
+    channel.set_duty_factor duty_percent/100.0
+    duty_percent += step
+    if duty_percent == 0 or duty_percent == 100:
+      step = -step
+    sleep --ms=10
+  led.close
+```
+
 ## Klassen und Objekte
 
 ```toit
