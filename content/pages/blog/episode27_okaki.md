@@ -1,20 +1,20 @@
 ---
 title: okaKI
-subtitle: Künstliche Intelligenz für smarte Gärten
+subtitle: Künstliche Intelligenz für Smarte Gärten
 date: '2022-05-10'
 categories:
   - content/data/categories/live.yaml
 tags: []
-excerpt: Künstliche Intelligenz für smarte Gärten
-thumb_image_alt: Smart Garten
-image_alt: Smart Garten
+excerpt: Künstliche Intelligenz für Smarte Gärten
+thumb_image_alt: okaKI
+image_alt: okaKI
 image_position: top
 seo:
-  title: okaKI
-  description: Künstliche Intelligenz für smarte Gärten
+  title: Helium Blockchain und okaKI
+  description: Künstliche Intelligenz für Smarte Gärten
   robots: []
   extra:
-    - name: 'og:image'u
+    - name: 'og:image'
       value: /images/DigitaleDinge27okaki.png
       keyName: property
       relativeUrl: true
