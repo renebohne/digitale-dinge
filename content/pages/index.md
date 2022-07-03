@@ -23,7 +23,7 @@ sections:
     title: Was gibt es Neues?
     subtitle: 'Blog, Videos, Tutorials und mehr'
     actions:
-      - label: Mehr
+      - label: Mehr Livestreams
         url: /blog
         style: primary
     blog_feed_cols: three
