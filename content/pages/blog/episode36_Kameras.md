@@ -1,17 +1,17 @@
 ---
 title: Kameras für das Smart Home
-subtitle: Wenn man was sehen möchte
+subtitle: Wie schauen uns ein paar an
 date: '2022-07-12'
 categories:
   - content/data/categories/live.yaml
 tags: []
-excerpt: Wenn man was sehen möchte
-thumb_image_alt:Smarte Kamera
-image_alt:Smarte Kamera
+excerpt: Wie schauen uns ein paar an
+thumb_image_alt: Smarte Kamera
+image_alt: Smarte Kamera
 image_position: top
 seo:
   title: Kameras für das Smart Home
-  description: Wenn man was sehen möchte
+  description: Wie schauen uns ein paar an
   robots: []
   extra:
     - name: 'og:image'
