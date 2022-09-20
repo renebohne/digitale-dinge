@@ -39,5 +39,7 @@ Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über 
 * https://github.com/limengdu/Disk91_LoRaE5
 * https://github.com/limengdu/Seeed-Studio-LoRaWAN-Dev-Kit/blob/main/sensor/SGP30-send-data/SGP30-send-data.ino
 * https://github.com/Seeed-Studio/Seeed_Arduino_LCD
-* https://github.com/Seeed-Solution/TTN-Payload-Decoder
+* https://github.com/limengdu/Seeed-Studio-LoRaWAN-Dev-Kit/blob/main/decoder/SGP30-data-decoder.js
+
+Und schaut euch auch die "alte" Episode der Online Lab Night zu dem Thema CO2-Ampel an: https://www.youtube.com/watch?v=XjuAqXG6MZQ
 
