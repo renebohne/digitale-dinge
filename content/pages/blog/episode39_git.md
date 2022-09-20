@@ -1,13 +1,13 @@
 ---
 title: git Tutorial für Anfänger
 subtitle: lerne git vor dem Programmieren!
-date: '2022-07-26'
+date: '2022-08-16'
 categories:
   - content/data/categories/live.yaml
 tags: []
 excerpt: lerne git vor dem Programmieren!
-thumb_image_alt: Raspberry Pi mit Mobilfunkmodem
-image_alt: Raspberry Pi mit Mobilfunkmodem
+thumb_image_alt: git Tutorial für Anfänger
+image_alt: git Tutorial für Anfänger
 image_position: top
 seo:
   title: git Tutorial für Anfänger
