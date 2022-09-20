@@ -1,7 +1,7 @@
 ---
 title: DIY AIoT Sensoren mit LoRaWAN
 subtitle: Seeedstudio K1100
-date: '2022-08-23'
+date: '2022-08-30'
 categories:
   - content/data/categories/live.yaml
 tags: []
