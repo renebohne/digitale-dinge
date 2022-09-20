@@ -40,4 +40,4 @@ Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über 
 * https://github.com/limengdu/Seeed-Studio-LoRaWAN-Dev-Kit/blob/main/sensor/SGP30-send-data/SGP30-send-data.ino
 * https://github.com/Seeed-Studio/Seeed_Arduino_LCD
 * https://github.com/Seeed-Solution/TTN-Payload-Decoder
-* 
+
