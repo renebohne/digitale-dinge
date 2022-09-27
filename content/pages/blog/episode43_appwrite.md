@@ -36,5 +36,11 @@ Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über 
 
 # Links zur Sendung
 
-* appwrite.io
+* https://www.appwrite.io
+* https://appwrite.io/docs/installation
+* https://docs.docker.com/engine/install/ubuntu/
+* https://docs.docker.com/compose/install/linux/
+* https://www.proxmox.com/de/
+
+
 
