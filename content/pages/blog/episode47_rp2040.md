@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi Pico
 subtitle: RP2040 SDK für C und C++
-date: '2022-10-18'
+date: '2022-10-25'
 categories:
   - content/data/categories/live.yaml
 tags: []
