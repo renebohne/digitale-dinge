@@ -1,18 +1,18 @@
 ---
 title: Maker zeigen und erklären
-subtitle: Show and Tell
+subtitle: Show and Tell Oktober
 date: '2022-10-04'
 categories:
   - content/data/categories/live.yaml
 tags: []
-excerpt: Show and Tell
-thumb_image_alt: Maker zeigen und erklärenFirebase
-image_alt: Maker zeigen und erklärenFirebase
+excerpt: Show and Tell Oktober
+thumb_image_alt: Maker zeigen und erklären
+image_alt: Maker zeigen und erklären
 image_position: top
 seo:
-  title: Maker zeigen und erklärenFirebase
+  title: Maker zeigen und erklären
 
-  description: Show and Tell
+  description: Show and Tell Oktober
   robots: []
   extra:
     - name: 'og:image'
