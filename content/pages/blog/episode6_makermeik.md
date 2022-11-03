@@ -33,4 +33,5 @@ Das ist der Beitrag von Meik!!!!
 
 ## Links
 
-(Meiks Webseite)[https://makermeik.de]
+* (Meiks Webseite)[https://makermeik.de]
+* Unter anderem wird der Artikel "Statt Schokolade: Audio-Adventskalender zum Selberbauen" im Video erwähnt: https://heise.de/-4157308
