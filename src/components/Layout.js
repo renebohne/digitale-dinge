@@ -46,7 +46,7 @@ export default class Body extends React.Component {
             );
         }
         */
-       return (<link rel="stylesheet" href="/public/fonts/style.css" />);
+       return (<link rel="stylesheet" href="/fonts/style.css" />);
     }
 
     render() {
