@@ -24,7 +24,7 @@ image: /images/DigitaleDinge41K1100.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/Pp3NxWdI6jQ?modestbranding=1"
+src="https://www.youtube-nocookie.com/embed/Pp3NxWdI6jQ?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 Diese Woche schauen wir uns das K1100 Sensor Prototype Kit von Seeed Studio an. Es besteht aus dem WIO Terminal, einem LoRa Modem und diversen Sensoren. Der SAMD51 Mikrocontroller kann mit der Arduino IDE programmiert werden und das WIO Terminal bietet neben einem großen Display, WLAN und Bluetooth viele Buttons und eingebaute Sensoren, die man für AIoT Anwendungen nutzen kann. In dem Kit ist sogar eine ESP32Cam, die für AI Lösungen zur Verfügung steht.

@@ -25,7 +25,7 @@ image: /images/DigitaleDinge43appwrite.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/lkm3LKGjm-I?modestbranding=1"
+src="https://www.youtube-nocookie.com/embed/lkm3LKGjm-I?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 appwrite ist eine Open-Source Alternative zu Firebase. Man kann appwrite lokal oder in der Cloud installieren, um damit Backends für Apps und andere Softwareprojekte zu erzeugen. 

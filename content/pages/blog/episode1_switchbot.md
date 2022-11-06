@@ -56,7 +56,7 @@ seo:
 layout: post
 ---
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/Uowm1uFO8tE?modestbranding=1"
+src="https://www.youtube-nocookie.com/embed/Uowm1uFO8tE?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen></iframe>
 

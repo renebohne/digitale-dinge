@@ -24,7 +24,7 @@ image: /images/DigitaleDinge40sensecap.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/giSic_Eo55U?modestbranding=1"
+src="https://www.youtube-nocookie.com/embed/giSic_Eo55U?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 Dieser Sommer ist sehr trocken! Solange genug Wasser vorhanden ist, lohnt es sich, den eigene Garten zu bewässern. Das ist Ziel von unserem Projekt "okaki". Neben smarten Ventilen benötigt man dafür u.a. Sensoren, die die Eigenschaften des Bodens messen können. Diese Woche schauen wir uns den senseCap S2105 mit LoRaWAN an.

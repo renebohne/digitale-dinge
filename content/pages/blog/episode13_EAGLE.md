@@ -24,7 +24,7 @@ image: /images/DigitaleDinge13EagleCAD.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/Z_V3KNgQToo?modestbranding=1"
+src="https://www.youtube-nocookie.com/embed/Z_V3KNgQToo?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 

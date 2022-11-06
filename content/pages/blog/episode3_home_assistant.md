@@ -38,7 +38,7 @@ Wer sein zuhause zu einem Smart Home machen möchte, braucht neben den vielen Ge
 Fabian hat vor einigen Wochen den Wechsel von FHEM zu Home Assistant vollzogen und berichtet von seinen Erfahrungen in unserer Live-Sendung:
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/FqbyLXywrOk?modestbranding=1"
+src="https://www.youtube-nocookie.com/embed/FqbyLXywrOk?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen></iframe>
 

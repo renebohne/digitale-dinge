@@ -25,7 +25,7 @@ image: /images/DigitaleDinge44showandtell1.png
 author: content/data/team/rene-bohne.yaml
 ---
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/V3IGfmlhL6w?modestbranding=1"
+src="https://www.youtube-nocookie.com/embed/V3IGfmlhL6w?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 Jeden ersten Dienstag im Monat gibt es eine besondere Ausgabe von Digitale Dinge: wir starten um 21 Uhr live auf YouTube und wechseln dann in unser Discord (http://discord.digitale-dinge.de), um dort ein kleines Show & Tell zu veranstalten. Zeigt eure Projekte und erklärt sie den anderen!
