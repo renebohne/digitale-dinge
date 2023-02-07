@@ -13,7 +13,7 @@ thumb_image_alt: traccar
 image_alt: traccar
 image_position: top
 seo:
-  title: CAD Programme - eine Übersicht
+  title: GPS-Tracking mit traccar
   description: traccar ist eine open source GPS-Tracking Lösung. Wir zeigen, wie man traccar lokal installiert und verwendet.
   robots: []
   extra:
