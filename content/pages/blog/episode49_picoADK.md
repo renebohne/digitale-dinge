@@ -28,7 +28,6 @@ src="https://www.youtube-nocookie.com/embed/iNUhVGuko9k?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
 
-iNUhVGuko9k
 Der RP2040 ist günstig und verfügbar. Dieser Mikrocontroller wird nicht nur auf dem Raspberry Pi Pico verwendet, sondern kann auch für eigene Projekte genutzt werden. 
 
 Das picoADK ist eine Platine mit dem RP2040, einem sehr guten ADC und einem hervorragenden DAC. Er eignet sich unter anderem für präzise Messaufgaben und für die Erzeugung von Klängen in Audio- und Musikanwendungen. 
