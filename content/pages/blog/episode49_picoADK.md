@@ -6,11 +6,11 @@ categories:
   - content/data/categories/live.yaml
 tags: []
 excerpt: Audio mit dem RP2040
-thumb_image_alt: Sound und Musik mit dem RP2040 PicoADK
-image_alt: Sound und Musik mit dem RP2040 PicoADK
+thumb_image_alt: Sound und Musik mit dem PicoADK
+image_alt: Sound und Musik mit dem PicoADK
 image_position: top
 seo:
-  title: Sound und Musik mit dem RP2040 PicoADK
+  title: Sound und Musik mit dem PicoADK
   description: Audio mit dem RP2040
   robots: []
   extra:
