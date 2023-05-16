@@ -56,7 +56,11 @@ arduino-cli config init
 
 ## Arduino anschließen
 
+Um zu sehen, welches Board an welchem seriellen Port angeschlossen ist, hilft dieser Befehl:
+
+```bash
 arduino-cli board list
+```
 
 ## Core installieren
 
