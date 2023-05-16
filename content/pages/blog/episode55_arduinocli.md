@@ -166,7 +166,7 @@ arduino-cli compile --fqbn arduino:avr:uno Blink.ino
 Um den selben Sketch für ein ESP32 Nodemcu zu kompilieren, kann der Befehl leicht angepasst werden:
 
 ```bash
-arduino-cli compile --fqbn arduino:avr:uno Blink.ino
+arduino-cli compile --fqbn esp32:esp32:nodemcuv2 Blink.ino
 ```
 
 Da Python eine Katastophe ist, muss man ggf. folgende Befehle unter Linux ausführen, damit nicht die falsche Python Version genutzt wird, was in der Regel immer zu Problemen mit dem esptool führen wird:
@@ -273,7 +273,7 @@ Alle offiziellen Libraries befinden sich in diesem Repository: `https://github.c
 Wenn man dort nach "Morse" sucht, findet man u.a. die MorseArduino Library. Wir wissen bereits, dass wir sie über ihre git-URL wie folgt installieren können:
 
 ```bash
-arduino-cli lib install --gir-url https://github.com/etherkit/MorseArduino.git
+arduino-cli lib install --git-url https://github.com/etherkit/MorseArduino.git
 ```
 Da es sich jedoch um eine Library aus dem offiziellen Repo handelt, können wir sie auch einfach so installieren:
 
@@ -284,7 +284,7 @@ arduino-cli lib install "Etherkit Morse"
 Wenn wir dann noch die uralte SimpleTimer Library via git installieren:
 
 ```bash
-arduino-cli lib install --gir-url https://github.com/schinken/SimpleTimer.git
+arduino-cli lib install --git-url https://github.com/schinken/SimpleTimer.git
 ```
 
 können wir folgendes Sketch erstellen:
