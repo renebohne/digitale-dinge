@@ -1,7 +1,7 @@
 ---
 title: arduino-cli
 subtitle: mit Docker oder Github Actions
-date: '2023-05-09'
+date: '2023-05-16'
 categories:
   - content/data/categories/live.yaml
 tags: []
