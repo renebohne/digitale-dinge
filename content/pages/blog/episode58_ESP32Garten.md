@@ -289,7 +289,7 @@ dependencies:
     version: ^2.2.0
 ```
 
-Um die Packete zu installieren, genügt dieser Befehl:
+Um die Pakete zu installieren, genügt dieser Befehl:
 ```bash
 jag pkg install
 ```
