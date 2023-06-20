@@ -72,7 +72,9 @@ Du benötigst Visual Studio Code und PlatformIO für dieses Beispiel!
 
 In diesem Beispiel wollen wir nicht mehr das kleine SSD1306 OLED verwenden, sondern ein 1.13" LCD mit 240x135 Pixeln nehmen. Konkret verwende ich dieses Board: https://www.waveshare.com/pico-lcd-1.14.htm
 
-Das Display kann einfach auf den Raspberry Pi Pico gesteclt werden. Es kann dann der Beispielcode aus dem Unterordner `lcd_arduino_adafruitGFX`mit VisualStudio Code auf den Pico geladen werden.
+Das Display verwendet den ST7789 Treiber. Bei Adafruit gibt es eine passende Arduino Library, die wir in diesem Beispiel verwenden. PlatformIO installiert sie automatisch für uns.
+
+Das Display kann einfach auf den Raspberry Pi Pico gesteclt werden. Es kann dann der Beispielcode aus dem Unterordner `lcd_arduino_adafruitGFX` mit VisualStudio Code auf den Pico geladen werden.
 
 # Links zur Sendung
 
@@ -80,6 +82,5 @@ Das Display kann einfach auf den Raspberry Pi Pico gesteclt werden. Es kann dann
 * XIAO RP2040 Wiki mit Pinout: https://wiki.seeedstudio.com/XIAO-RP2040/
 * PlatformIO Raspberry Pi Pico Platform: https://github.com/maxgerhardt/platform-raspberrypi
 * Arduino Framework für RP2040: https://github.com/earlephilhower/arduino-pico
+* SSD1306 pico-sdk: https://github.com/daschr/pico-ssd1306
 * LovyanGFX für Raspberry Pi Pico: https://github.com/stonedev-app/picoLGFX
-* 
-* 
