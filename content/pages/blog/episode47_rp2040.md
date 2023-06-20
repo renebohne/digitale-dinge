@@ -27,6 +27,7 @@ author: content/data/team/rene-bohne.yaml
 src="https://www.youtube-nocookie.com/embed/MetRHwAH_Jg?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
+
 Diese Woche schauen wir uns den Raspberry Pi Pico noch einmal genauer an. Mit dem Pico SDK wollen wir einfach Beispiele für Einsteiger übersetzen und auf den Mikrocontroller laden. 
 
 Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei http://discord.digitale-dinge.de/

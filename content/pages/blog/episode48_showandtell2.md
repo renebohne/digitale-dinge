@@ -27,6 +27,7 @@ author: content/data/team/rene-bohne.yaml
 src="https://www.youtube-nocookie.com/embed/2oo4oE_jpH0?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
+
 Jeden ersten Dienstag im Monat gibt es eine besondere Ausgabe von Digitale Dinge: wir starten um 21 Uhr live auf YouTube und wechseln dann in unser Discord (http://discord.digitale-dinge.de), um dort ein kleines Show & Tell zu veranstalten. Zeigt eure Projekte und erklärt sie den anderen!
 Jeden anderen Dienstag um 21 Uhr gibt es Digitale Dinge wie gewohnt eine Stunde lang auf YouTube.
 

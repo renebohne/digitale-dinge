@@ -28,6 +28,7 @@ author: content/data/team/rene-bohne.yaml
 src="https://www.youtube-nocookie.com/embed/lkm3LKGjm-I?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
+
 appwrite ist eine Open-Source Alternative zu Firebase. Man kann appwrite lokal oder in der Cloud installieren, um damit Backends für Apps und andere Softwareprojekte zu erzeugen. 
 Neben Datenbanken, Dateispeicher und Authentifizierung werden unter anderem auch Cloud Functions angeboten, die man im Gegensatz zu Firebase sogar in fast jeder Programmiersprache der eigenen Wahl umsetzen kann. 
 Wir schauen uns an, wie man appwrite in Proxmox mit Docker installiert und wie man die wichtigsten Sachen in Betrieb nimmt. 

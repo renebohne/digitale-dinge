@@ -27,6 +27,7 @@ author: content/data/team/rene-bohne.yaml
 src="https://www.youtube-nocookie.com/embed/3DukqZ8Hcmc?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
+
 Wenn Du Programmieren lernen möchtest, solltest Du vorher git lernen. Wenn Du schon seit Jahrzehnten programmierst und Deinen Source Code in zip Dateien per E-Mail archivierst, solltest Du auch git lernen! 
 
 JojoS aus unserer Discord Community wird diese Woche einen einsteigerfreundlichen Überblick über die wichtigsten git Kommandos und Tools geben. Fragen und Kommentare sind dabei gerne gesehen in unserem YouTube Live Chat und in Discord: http://discord.digitale-dinge.de

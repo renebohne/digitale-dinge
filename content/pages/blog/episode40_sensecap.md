@@ -27,6 +27,7 @@ author: content/data/team/rene-bohne.yaml
 src="https://www.youtube-nocookie.com/embed/giSic_Eo55U?modestbranding=1"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 gyroscope; picture-in-picture" allowfullscreen>\\\</iframe>
+
 Dieser Sommer ist sehr trocken! Solange genug Wasser vorhanden ist, lohnt es sich, den eigene Garten zu bewässern. Das ist Ziel von unserem Projekt "okaki". Neben smarten Ventilen benötigt man dafür u.a. Sensoren, die die Eigenschaften des Bodens messen können. Diese Woche schauen wir uns den senseCap S2105 mit LoRaWAN an.
 
 Wir sind jeden Dienstag um 21 Uhr live uns sprechen über digitale Dinge! Über einen Kommentar unter dem Video freuen wir uns sehr und noch schöner ist es, wenn wir uns im Live-Chat auf YouTube und Discord austauschen können. Du findest uns bei http://discord.digitale-dinge.de/
