@@ -4,6 +4,8 @@ Die gerenderte Webseite findet ihr unter http://digitale-dinge.de
 Wie man etwas zu unserer Webseite beisteuern kann, wird in diesem Video erklärt:
 https://www.youtube.com/watch?v=acm76Q-lPtk
 
+Ich hatte es in vercel gepflegt.
+
 
 # ✨ DIY Nextjs Theme ✨
 
